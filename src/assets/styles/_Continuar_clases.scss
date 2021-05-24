@@ -1,0 +1,9 @@
+@import './Vars.scss';
+
+.ContinuarViendo{
+  padding: 12px;
+  & .titlleContinuar{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+}
