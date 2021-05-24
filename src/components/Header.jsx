@@ -1,17 +1,21 @@
 import React, { Component } from 'react';
-import Perfil from './menus/Perfil';
-import Notificaciones from './menus/Notificaciones';
-import Menu from './menus/Menu';
+import Perfil from './Perfil';
+import Notificaciones from './Notificaciones';
+import Menu from './Menu';
+import Logo from './Logo';
+import '../assets/styles/_Header.scss';
 
 class Header extends Component {
   render() {
     return (
-      <>
-        <h1>Header</h1>
-        <Menu />
-        <Perfil />
-        <Notificaciones />
-      </>
+      <header className='header'>
+        <Logo />
+        <div className='right'>
+          <Menu />
+          <Perfil />
+          <Notificaciones />
+        </div>
+      </header>
     );
   }
 }

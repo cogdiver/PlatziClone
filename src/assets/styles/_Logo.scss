@@ -1,0 +1,12 @@
+@import './Vars.scss';
+
+.logo{
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  & img{
+    height: 28px;
+    margin-right: 3px;
+  }
+}

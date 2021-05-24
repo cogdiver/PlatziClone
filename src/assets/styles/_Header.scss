@@ -1,0 +1,26 @@
+@import './Vars.scss';
+
+.header{
+  background-color: $color-medio;
+  display: flex;
+  height: 54px;
+  align-items: center;
+  padding: 0 10px;
+  justify-content: space-between;
+  & .right{
+    display: grid;
+    grid-template-areas: 'perfil notif menu';
+    align-items: center;
+    & .menu-Home{
+      grid-area: menu;
+    }
+    & .Notificaciones{
+      grid-area: notif;
+      margin-right: 13px;
+    }
+    & .Perfil{
+      grid-area: perfil;
+      margin-right: 13px;
+    }
+  }
+}
