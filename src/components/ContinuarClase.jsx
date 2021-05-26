@@ -15,10 +15,10 @@ class ContinuarClase extends Component {
           </div>
         </div>
         <div className='descripcion'>
-          <p className='nombreClase'>Nombre de la clase</p>
+          <span className='nombreClase'>Nombre de la clase cuando es más largo</span>
           <div className='nombreCurso'>
             <img src={curso} alt='' />
-            <p>Nombre del curso</p>
+            <span>Nombre del curso cuando es más largo</span>
           </div>
         </div>
       </div>

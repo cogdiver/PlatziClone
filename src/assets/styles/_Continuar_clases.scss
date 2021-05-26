@@ -1,9 +1,10 @@
-@import './Vars.scss';
+@import './gobals';
 
 .ContinuarViendo{
-  padding: 12px;
+  margin-bottom: 10px;
   & .titlleContinuar{
-    font-size: 1.2rem;
+    padding: 0 12px;
+    font-size: 1rem;
     margin-bottom: 10px;
   }
 }

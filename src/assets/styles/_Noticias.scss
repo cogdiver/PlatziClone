@@ -1,0 +1,102 @@
+@import './gobals';
+
+.noticiasHome{
+  margin-bottom: 40px;
+  & .new{
+    @include contenedor;  
+    margin-top: 10px;
+  }
+}
+
+//Estilos para los posts
+.new .post{
+  display: grid;
+  grid-template-columns: 60px auto;
+  & img{
+    height: 60px;
+    width: 60px;
+    object-fit: cover;
+    border-radius: 5px;
+  }
+  & .description{
+    display: grid;
+    grid-template-columns: 100%;
+    align-items: center;
+    padding: 0 10px;
+    font-size: 0.95rem;
+    & .autor{
+      display: flex;
+      align-items: center;
+      margin-top: 10px;
+      & img{
+        height: 15px;
+        width: 15px;
+        border-radius: 15px;
+      }
+      & p{
+        font-size: 0.8rem;
+        color: $color-opaco;
+        margin-left: 5px;
+      }
+    }
+  }
+}
+.new .details{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  & .interaccion{
+    display: flex;
+    & div{
+      display: flex;
+      margin-right: 15px;
+    }
+    & svg{
+      height: 15px;
+      box-sizing: content-box;
+      fill: $color-fuente;
+    }
+    & span{
+      margin-left: 5px;
+      font-size: 0.8rem;
+    }
+  }
+  & p{
+    font-size: 0.7rem;
+    margin-right: 5px;
+  }
+}
+
+//Estilos para los cursos
+.new .course{
+  display: grid;
+  grid-template-columns: 35px auto 30px;
+  align-items: center;
+  & img{
+    height: 35px;
+  }
+  & .descripcion{
+    display: grid;
+    grid-template-columns: 100%;
+    font-size: 1rem;
+    padding-left: 10px;
+    font-weight: bold;
+    & div{
+      margin-top: 10px;
+      margin-bottom: 5px;
+      font-size: 0.7rem;
+      color: $color-opaco;
+      & .verde{
+        margin-left: 10px;
+        background-color: rgba($color-verde, 0.4);
+        color: $color-verde;
+        padding: 2px 6px;
+        border-radius: 10px;
+      }
+    }
+  }
+  & svg{
+    fill: $color-azul;
+    margin-right: 5px;
+  }
+}

@@ -1,6 +1,10 @@
-@import './Vars.scss';
+@import './gobals';
 
 .header{
+  box-sizing: border-box;
+  width: 100%;
+  //position: fixed;
+  z-index: 100;
   background-color: $color-medio;
   display: flex;
   height: 54px;

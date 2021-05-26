@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
+import Ruta from './Ruta';
 
 class Rutas extends Component {
   render() {
     return (
-      <h1>Rutas</h1>
+      <Ruta />
     );
   }
 }
