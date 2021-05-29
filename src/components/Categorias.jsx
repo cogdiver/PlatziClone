@@ -1,0 +1,14 @@
+import React, { Component } from 'react';
+import Categoria from './Categoria';
+
+class Categorias extends Component {
+  render() {
+    return (
+      <div className='categorias'>
+        <Categoria />
+      </div>
+    );
+  }
+}
+
+export default Categorias;

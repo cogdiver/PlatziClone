@@ -11,7 +11,7 @@ class Notificacion extends Component {
           <br />
           Guía para lanzar un producto digital
         </span>
-        <span>2d</span>
+        <span className='time'>2d</span>
       </div>
     );
   }

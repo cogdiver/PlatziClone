@@ -1,0 +1,6 @@
+@import './gobals';
+
+.home{
+  width: 100%;
+  @include scroll;
+}

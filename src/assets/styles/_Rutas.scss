@@ -1,0 +1,51 @@
+@import './gobals';
+
+.rutas{
+  display: none;
+  width: 100%;
+  background-color: $color-oscuro;
+  & .ruta{
+    @include contenedor;
+    max-width: 290px;
+    margin-bottom: 3px;
+    display: grid;
+    row-gap: 8px;
+    & .description{
+      display: grid;
+      align-items: center;
+      grid-template-columns: 12px 40px auto 13px;
+      column-gap: 8px;
+      font-size: 0.9rem;
+      & img{
+        height: 40px;
+        width: 40px;
+      }
+      & svg{
+        fill: $color-fuente;
+      }
+    }
+    & .avance{
+      align-items: center;
+      display: grid;
+      justify-items: center;
+      column-gap: 10px;
+      grid-template-columns: 40px auto 17px;
+      font-size: 0.8rem;
+      & .barra{
+        border-radius: 10px;
+        height: 7px;
+        background-color: $color-fuente;
+        width: 100%;
+        & .barraprogreso{
+          border-radius: 10px;
+          height: inherit;
+          background-color: $color-verde;
+          width: 50%;
+        }
+      }
+      & svg{
+        fill: $color-fuente
+      }
+    }
+  }
+}

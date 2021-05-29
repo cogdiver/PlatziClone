@@ -42,21 +42,9 @@
   }
 }
 .notificaiones-content{
-  overflow-y: scroll;
   height: 210px;
   margin-top: 5px;
-  &::-webkit-scrollbar{
-    width: 3.5px;
-  }
-  &::-webkit-scrollbar-thumb{
-    background: transparent;
-    border-radius: 5px;
-  }
-  &:hover{
-    &::-webkit-scrollbar-thumb{
-      background: $color-opaco;
-    }
-  }
+  @include scroll;
   & .notificacion{
     display: grid;
     grid-template-columns: 230px auto;
@@ -67,6 +55,12 @@
     border-radius: 6px;
     font-size: 0.85rem;
     margin: 0 7px 3px 10px;
+    & strong{
+      color: $color-opaco;
+    }
+    & .time{
+      color: $color-opaco;
+    }
   }
 }
 .notificaciones-bottom{

@@ -4,20 +4,19 @@ import ContinuarClases from '../components/ContinuarClases';
 import Progreso from '../components/Progreso';
 import Noticias from '../components/Noticias';
 import Rutas from '../components/Rutas';
-import Buscador from '../components/Buscador';
+import Buscar from '../components/Buscar';
+import '../assets/styles/_Home.scss';
 
 const Home = () => {
   return (
-    <>
+    <div className='home'>
       <Header />
-      <div className='home'>
-        <Rutas />
-        <Buscador />
-        <ContinuarClases />
-        <Progreso />
-        <Noticias />
-      </div>
-    </>
+      <Rutas />
+      <Buscar />
+      <ContinuarClases />
+      <Progreso />
+      <Noticias />
+    </div>
   );
 };
 
