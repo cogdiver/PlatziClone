@@ -5,7 +5,7 @@ import Cursos from '../containers/Cursos';
 import Rutas from '../containers/Rutas';
 import Clases from '../containers/Clases';
 import NotFound from '../containers/NotFound';
-import '../assets/styles/_gobals.scss';
+import '../assets/styles/_generals.scss';
 
 const App = () => (
   <BrowserRouter>

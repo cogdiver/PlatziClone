@@ -1,0 +1,37 @@
+@import './globals';
+
+.temarioRecursos{
+  margin-top: 20px;
+  & .barra{
+    width: 60px;
+    border-top: 2px solid $color-azul;
+    margin: 0 auto 15px;
+  }
+  & h2{
+    font-size: 1.3rem;
+    margin: 0 12px;
+    text-align: center;
+  }
+  & .encabezado{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border-bottom: 1px solid $color-claro;
+    font-size: 0.8rem;
+    margin: 10px 6px;
+    text-transform: uppercase;
+    & span{
+      padding: 6px 0;
+      width: 100%;
+      text-align: center;
+      cursor: pointer;
+    }
+    & span:nth-of-type(1){
+      border-bottom: 3px solid $color-verde;
+    }
+  }
+  & .contenido{
+    & .temario{
+      margin: 0 12px;
+    }
+  }
+}
