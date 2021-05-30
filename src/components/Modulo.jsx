@@ -12,12 +12,12 @@ class Modulo extends Component {
     ));
 
     return (
-      <>
+      <div className='modulo'>
         <h3>{titulo}</h3>
         <div className='clases'>
           {clasesHTML}
         </div>
-      </>
+      </div>
     );
   }
 }

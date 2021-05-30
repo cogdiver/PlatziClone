@@ -7,8 +7,8 @@
     border-top: 2px solid $color-azul;
     margin: 0 auto 15px;
   }
-  & h2{
-    font-size: 1.3rem;
+  & h3{
+    font-size: 1.2rem;
     margin: 0 12px;
     text-align: center;
   }
@@ -16,7 +16,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     border-bottom: 1px solid $color-claro;
-    font-size: 0.8rem;
+    font-size: 0.7rem;
     margin: 10px 6px;
     text-transform: uppercase;
     & span{
@@ -25,13 +25,70 @@
       text-align: center;
       cursor: pointer;
     }
-    & span:nth-of-type(1){
+    & span:nth-of-type(2){
       border-bottom: 3px solid $color-verde;
     }
   }
   & .contenido{
+    margin: 15px 12px 0;
+    & .nota{
+      color: $color-opaco;
+      font-size: 0.7rem;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
     & .temario{
-      margin: 0 12px;
+      display: none;
+      & .modulo{
+        font-size: 0.8rem;
+        padding-bottom: 3px;
+        border-bottom: 1px solid $color-claro;
+        & h3{
+          margin-bottom: 8px;
+          margin-top: 10px;
+        }
+        & .clase{
+          display: grid;
+          align-items: center;
+          padding: 15px;
+          grid-template-columns: 11px auto;
+          column-gap: 10px;
+          background-color: $color-claro;
+          border-radius: 6px;
+          cursor: pointer;
+          margin-bottom: 3px;
+          & svg{
+            fill: $color-azul;
+          }
+          & p{
+            font-size: 0.8rem;
+            font-weight: lighter;
+          }
+        }
+      }
+    }
+    & .detalles{
+      & .horas{
+        margin-top: 15px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        & div{
+          display: flex;
+          font-size: 1rem;
+          align-items: center;
+          & svg{
+            fill: $color-fuente;
+            margin-right: 10px;
+          }
+        }
+        & .horasContenido svg{
+          height: 24px;
+        }
+        & .horasPractica svg{
+          height: 21px;
+        }
+      }
     }
   }
 }

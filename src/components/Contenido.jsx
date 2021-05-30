@@ -9,7 +9,7 @@ class Contenido extends Component {
     return (
       <div className='temarioRecursos'>
         <div className='barra' />
-        <h2>{titulo}</h2>
+        <h3>{titulo}</h3>
         <div className='encabezado'>
           <span>Temario</span>
           <span>Detalles</span>

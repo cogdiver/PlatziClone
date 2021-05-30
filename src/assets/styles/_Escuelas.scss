@@ -1,0 +1,56 @@
+@import './globals';
+
+.recomendarEscuelas{
+  margin-top: 30px;
+  background-color: $color-medio;
+  & .barra{
+    width: 60px;
+    border-bottom: 2px solid $color-azul;
+    height: 20px;
+    margin: 0 auto 15px 12px;
+  }
+  & h3{
+    font-size: 1.1rem;
+    margin: 0 12px;
+  }
+  & .escuelas{
+    display: flex;
+    padding: 20px;
+    overflow-x: scroll;
+    @include scroll;
+    & .escuela{
+      margin-left: 10px;
+      padding: 10px;
+      border-radius: 5px;
+      background-color: $color-claro;
+      & .top{
+        height: 50px;
+        padding: 7px;
+        & img{
+          height: 100%;
+        }
+      }
+      & .cursos{
+        height: 90px;
+        margin: 10px 15px;
+      }
+      & .boton-verde-grande{
+        border: 1px solid $color-verde;
+        background: transparent;
+        color:$color-verde;
+        width: max-content;
+        padding: 7px 12px;
+        border-radius: 6px;
+        margin: 0 15px 10px;
+        text-transform: uppercase;
+        font-size: 0.7rem;
+        font-weight: bold;
+        cursor: pointer;
+        &:hover{
+          background-color: $color-verde;
+          color: $color-claro;
+        }
+      }
+    }
+  }
+}

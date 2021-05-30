@@ -10,15 +10,15 @@ class Temario extends Component {
       },
       {
         titulo: 'Conocer la importancia de utilizar una herramienta especializada en el diseño de interfaces2',
-        clases: ['clase3', 'clase4'],
+        clases: ['clase3', 'clase4', 'clase5'],
       },
     ];
     const modulosHTML = modulos.map((modulo) => <Modulo titulo={modulo.titulo} clases={modulo.clases} />);
 
     return (
       <div className='temario'>
-        <p>Temario del Curso de Adobe XD</p>
-        <div className='modulo'>
+        <p className='nota'> Temario del Curso de Adobe XD</p>
+        <div className='modulos'>
           {modulosHTML}
         </div>
       </div>
