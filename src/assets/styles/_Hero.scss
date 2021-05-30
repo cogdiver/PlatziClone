@@ -61,7 +61,7 @@
     }
     & input{
       cursor: pointer;
-      @include boton-grande-azul;
+      @include boton-grande($color-azul,1);
     }
   }
 }

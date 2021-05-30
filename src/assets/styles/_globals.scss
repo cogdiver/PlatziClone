@@ -26,13 +26,18 @@
     }
   }
 }
-@mixin boton-grande-azul {
-  background-color: $color-azul;
-  color: $color-medio;
+@mixin boton-grande($color,$back) {
+  @if $back==1 {
+    background-color: $color;
+    color: $color-medio;
+  } @else {
+    color: $color;
+    background-color: transparent;
+  }
+  border: 1px solid $color;
   width: 100%;
-  padding: 10px;
+  padding: 8px;
   border-radius: 6px;
-  border: none;
   font-size: 0.8rem;
   font-weight: bold;
 }

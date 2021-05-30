@@ -1,0 +1,11 @@
+@import './globals';
+
+.comentarios{
+  margin-top: 45px;
+  display: flex;
+  overflow-x: scroll;
+  @include scroll;
+  & .comentario{
+    @include contenedor;
+  }
+}
