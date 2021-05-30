@@ -21,18 +21,65 @@
     & .escuela{
       margin-left: 10px;
       padding: 10px;
-      border-radius: 5px;
+      border-radius: 6px;
       background-color: $color-claro;
       & .top{
         height: 50px;
-        padding: 7px;
+        padding: 7px 2px;
+        background-color: #BBA1FF;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        color: #372859;
+        font-size: 0.8rem;
         & img{
           height: 100%;
+          margin-right: 6px;
+        }
+        & span{
+          display: block;
+          width: 100%;
+          & span{
+            font-weight: bold;
+          }
         }
       }
       & .cursos{
-        height: 90px;
-        margin: 10px 15px;
+        margin: 15px 5px 20px;
+        display: grid;
+        row-gap: 14px;
+        position: relative;
+        & .union{
+          position: absolute;
+          top: 5px;
+          bottom: 5px;
+          left: 12px;
+          border-left: 2px solid #BBA1FF;
+        }
+        & .curso{
+          position: relative;
+          z-index: 1;
+          display: grid;
+          grid-template-columns: 25px auto;
+          column-gap: 10px;
+          align-items: center;
+          color: $color-opaco;
+          &:hover{
+            color: $color-fuente;
+            cursor: pointer;
+          }
+          & img{
+            width: 25px;
+            height: 25px;
+            border-radius: 25px;
+          }
+          & p{
+            font-size: 0.9rem;
+          }
+          & span{
+            font-size: 0.7rem;
+          }
+        }
       }
       & .boton-verde-grande{
         border: 1px solid $color-verde;
