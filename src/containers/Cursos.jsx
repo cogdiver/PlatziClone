@@ -23,7 +23,7 @@ class Cursos extends Component {
         <Comentarios />
         <Estadisticas />
         <Comunidad />
-        <MoreCursos />
+        <MoreCursos cursos={['Curso de Arquitectura de la Información con Usaria', 'Curso de Arquitectura de la Información con Usaria', 'Curso de Arquitectura de la Información con Usaria']} />
         <Reconocimiento />
         <Footer />
       </>

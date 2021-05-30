@@ -41,3 +41,10 @@
   font-size: 0.8rem;
   font-weight: bold;
 }
+@mixin barra($margin: auto) {
+  & .barra{
+    width: 60px;
+    border-top: 2px solid $color-azul;
+    margin: 0 $margin 15px;
+  }
+}

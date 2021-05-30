@@ -2,34 +2,16 @@
 
 .temarioRecursos{
   margin-top: 20px;
-  & .barra{
-    width: 60px;
-    border-top: 2px solid $color-azul;
-    margin: 0 auto 15px;
-  }
+  @include barra;
   & > h3{
     text-align: center;
+    margin: 0 12px;
   }
   & h3{
     font-size: 1.2rem;
-    margin: 0 12px;
   }
   & .encabezado{
-    display: grid;
     grid-template-columns: repeat(2, 1fr);
-    border-bottom: 1px solid $color-claro;
-    font-size: 0.7rem;
-    margin: 10px 6px;
-    text-transform: uppercase;
-    & span{
-      padding: 6px 0;
-      width: 100%;
-      text-align: center;
-      cursor: pointer;
-    }
-    & span:nth-of-type(2){
-      border-bottom: 3px solid $color-verde;
-    }
   }
   & .contenido{
     margin: 15px 12px 0;
@@ -40,7 +22,7 @@
       margin-bottom: 8px;
     }
     & .temario{
-      display: none;
+      //display: none;
       & .modulo{
         font-size: 0.8rem;
         padding-bottom: 3px;
@@ -70,7 +52,7 @@
       }
     }
     & .detalles{
-      //display: none;
+      display: none;
       & .horas{
         margin-top: 15px;
         display: flex;

@@ -1,0 +1,25 @@
+@import './globals';
+
+.comunidad{
+  background: $color-medio;
+  padding: 30px 0;
+  & .barra{
+    width: 60px;
+    border-top: 2px solid $color-azul;
+    margin: 0 auto 15px;
+  }
+  & .encabezado{
+    grid-template-columns: repeat(3, 1fr);
+  }
+  & > h3{
+    text-align: center;
+    margin: 0 12px 12px;
+    font-size: 1.2rem;
+  }
+  & > p{
+    font-size: 0.8rem;
+    text-align: center;
+    margin: 0 15px 15px;
+    
+  }
+}
