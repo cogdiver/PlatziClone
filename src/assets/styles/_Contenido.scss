@@ -3,15 +3,13 @@
 .temarioRecursos{
   margin-top: 20px;
   @include barra;
+  @include encabezado(2);
   & > h3{
     text-align: center;
     margin: 0 12px;
   }
   & h3{
     font-size: 1.2rem;
-  }
-  & .encabezado{
-    grid-template-columns: repeat(2, 1fr);
   }
   & .contenido{
     margin: 15px 12px 0;

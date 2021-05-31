@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import '../assets/styles/_Encabezado.scss';
 
 class Encabezado extends Component {
   render() {

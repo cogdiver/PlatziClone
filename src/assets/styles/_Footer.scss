@@ -4,12 +4,71 @@
   background-color: $color-oscuro;
   display: grid;
   justify-items: center;
+  padding: 15px;
+  & .logo img{
+    height: 30px;
+  }
+  & .mensaje{
+    text-align: center;
+    margin: 22px 0 15px;
+    font-size: 0.9rem;
+  }
   & svg{
     fill: $color-fuente;
+    width: 20px;
+    max-height: 20px;
   }
   & .redes{
-    display: flex;
-    height: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 20px);
+    grid-template-rows: 20px;
+    column-gap: 25px;
+  }
+  & .categorias{
+    margin: 30px auto;
+    border: 1px solid $color-amarillo;
+    height: 190px;
+    width: 250px;
+  }
+  & .reconocimientos{
+    margin: 30px auto;
+    border: 1px solid $color-amarillo;
+    height: 115px;
+    width: 160px;
+
+  }
+  & .correo{
+    font-size: 0.8rem;
+    margin: 0 15px;
+    text-align: center;
+    & .inputs{
+      display: flex;
+      justify-content: center;
+      margin-top: 11px;
+      & input{
+        height: 35px;
+        box-sizing: border-box;
+        border: 1px solid $color-azul;
+      }
+      & .text{
+        border-radius: 4px 0 0 4px;
+        border-radius: 4px;
+        font-size: 0.7rem;
+        background-color: transparent;
+        color: $color-fuente;
+        padding: 0 10px;
+        width: 200px;
+        
+      }
+      & .button{
+        border-radius: 0 4px 4px 0;
+        background-color: $color-azul;
+        padding: 10px 16px;
+        margin-left: -5px;
+        text-transform: capitalize;
+        font-weight: bold;
+      }
+    }
   }
   & .enlaces{
     display: flex;

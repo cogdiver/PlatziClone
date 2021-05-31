@@ -4,9 +4,7 @@
   background: $color-medio;
   padding: 30px 0;
   @include barra;
-  & .encabezado{
-    grid-template-columns: repeat(3, 1fr);
-  }
+  @include encabezado(3);
   & > h3{
     text-align: center;
     margin: 0 12px 12px;

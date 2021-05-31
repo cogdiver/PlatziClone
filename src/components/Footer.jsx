@@ -20,7 +20,12 @@ class Footer extends Component {
           <img src={logo} alt='' />
           <img src={logoLetras} alt='' />
         </div>
-        <p className='mensaje' />
+        <p className='mensaje'>
+          Transformamos la economía de nuestros países entrenando a la próxima generación de profesionales en tecnología.
+          <br />
+          <br />
+          Aprende en nuestras redes:
+        </p>
         <div className='redes'>
           <Twitter />
           <Youtube />
@@ -29,20 +34,24 @@ class Footer extends Component {
         </div>
         <div className='categorias'>
           <CategoriaFooter />
+          <CategoriaFooter />
+          <CategoriaFooter />
         </div>
         <div className='reconocimientos' />
         <div className='correo'>
           <p>Entérate de todas las novedades en educación, negocios y tecnología</p>
-          <input type='text' value='Ingresa tu correo electrónico' />
-          <input type='button' value='suscribete' />
+          <div className='inputs'>
+            <input className='text' type='text' spaceholder='Ingresa tu correo electrónico' />
+            <input className='button' type='button' value='suscribete' />
+          </div>
         </div>
         <div className='enlaces'>
           {enlacesHTML}
         </div>
-        <div className="idiomas">
-          <Idioma abrev='PT' img='../assets/static/perfil.jpg'/>
-          <Idioma abrev='ES' img='../assets/static/perfil.jpg'/>
-          <Idioma abrev='EN' img='../assets/static/perfil.jpg'/>
+        <div className='idiomas'>
+          <Idioma abrev='PT' img='../assets/static/perfil.jpg' />
+          <Idioma abrev='ES' img='../assets/static/perfil.jpg' />
+          <Idioma abrev='EN' img='../assets/static/perfil.jpg' />
         </div>
       </div>
     );

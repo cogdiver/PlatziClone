@@ -27,7 +27,7 @@ class NewPost extends Component {
               <Comentarios />
               <span>64</span>
             </div>
-            <div className='comentarios'>
+            <div className='comentariosPost'>
               <Comentarios />
               <span>25</span>
             </div>
