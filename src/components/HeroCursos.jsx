@@ -31,7 +31,7 @@ class HeroCursos extends Component {
         </div>
         <p className='descripcion'>{descripcion}</p>
         <div className='cta'>
-          <input type='button' value='CONTINUAR APRENDIENDO' />
+          <input type='button' value='continuar aprendiendo' />
           <Agregar />
         </div>
       </div>

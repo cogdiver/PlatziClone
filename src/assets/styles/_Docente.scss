@@ -9,11 +9,7 @@
     background-color: $color-medio;
     border-radius: 5px;
   }
-  & .barra{
-    width: 60px;
-    border-top: 2px solid $color-azul;
-    margin: 0 auto 15px 0;
-  }
+  @include barra(0, auto);
   & h3{
     font-size: 1.2rem;
     margin-bottom: 20px;

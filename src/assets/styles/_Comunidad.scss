@@ -3,11 +3,7 @@
 .comunidad{
   background: $color-medio;
   padding: 30px 0;
-  & .barra{
-    width: 60px;
-    border-top: 2px solid $color-azul;
-    margin: 0 auto 15px;
-  }
+  @include barra;
   & .encabezado{
     grid-template-columns: repeat(3, 1fr);
   }

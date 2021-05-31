@@ -13,7 +13,7 @@ class Docente extends Component {
           <div className='cargo'>Motion expert and Designer en Platzi</div>
         </div>
         <div className='detalles'>Product Designer at Platzi</div>
-        <input type='button' value='CURSOS DE CARLOS' />
+        <input type='button' value='cursos de carlos' />
       </div>
     );
   }

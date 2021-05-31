@@ -40,11 +40,16 @@
   border-radius: 6px;
   font-size: 0.8rem;
   font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
 }
-@mixin barra($margin: auto) {
+@mixin barra($margin-left: auto, $margin-right: auto) {
   & .barra{
     width: 60px;
     border-top: 2px solid $color-azul;
-    margin: 0 $margin 15px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    margin-right: $margin-right;
+    margin-left: $margin-left;
   }
 }

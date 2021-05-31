@@ -60,7 +60,6 @@
       cursor: pointer;
     }
     & input{
-      cursor: pointer;
       @include boton-grande($color-azul,1);
     }
   }

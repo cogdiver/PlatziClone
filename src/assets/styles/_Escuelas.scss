@@ -3,12 +3,8 @@
 .recomendarEscuelas{
   margin-top: 30px;
   background-color: $color-medio;
-  & .barra{
-    width: 60px;
-    border-bottom: 2px solid $color-azul;
-    height: 20px;
-    margin: 0 auto 15px 12px;
-  }
+  padding-top: 20px; 
+  @include barra(12px, auto);
   & h3{
     font-size: 1.1rem;
     margin: 0 12px;
@@ -82,17 +78,11 @@
         }
       }
       & .boton-verde-grande{
-        border: 1px solid $color-verde;
-        background: transparent;
-        color:$color-verde;
+        @include boton-grande($color-verde, 0);
         width: max-content;
         padding: 7px 12px;
-        border-radius: 6px;
         margin: 0 15px 10px;
-        text-transform: uppercase;
         font-size: 0.7rem;
-        font-weight: bold;
-        cursor: pointer;
         &:hover{
           background-color: $color-verde;
           color: $color-claro;
