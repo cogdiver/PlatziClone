@@ -1,11 +1,17 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
+import Go from './svg/Down';
 
 class CategoriaFooter extends Component {
   render() {
+    const { category, clase } = this.props;
+    const nombreclase = `category ${clase}`;
+
     return (
-      <div>
-        Categoaría
-      </div>
+      <Link to='/' className={nombreclase}>
+        <p>{category}</p>
+        <Go />
+      </Link>
     );
   }
 }

@@ -6,14 +6,24 @@ import Youtube from './svg/Youtube';
 import Facebook from './svg/Facebook';
 import Instagram from './svg/Instagram';
 import CategoriaFooter from './CategoriaFooter';
-import Idioma from './Idioma';
 import logo from '../assets/static/logo.png';
 import logoLetras from '../assets/static/logo2.png';
+import brasil from '../assets/static/brazil.jpg';
+import espana from '../assets/static/espana.jpg';
+import united from '../assets/static/united-states.jpg';
+import ibm from '../assets/static/logo-ibm.png';
+import unity from '../assets/static/logo-unity.png';
+import yc from '../assets/static/yc.png';
+import asu from '../assets/static/asugsv.png';
 
 class Footer extends Component {
   render() {
     const enlaces = ['Preguntas frecuentas', 'Contáctanos', 'Prensa', 'Conferencias', 'Términos y Condiciones', 'Privacidad', 'Estudiantes', 'Hola'];
     const enlacesHTML = enlaces.map((enlace) => <Link to='/'>{enlace}</Link>);
+
+    const categorias = [['Marketing', 'marketing'], ['Diseño y UX', 'ux'], ['Inglés', 'ingles'], ['Startups', 'startups'], ['Desarrollo e Ingeniería', 'desarrollo'], ['Habilidades Blandas', 'habilidades'], ['Negocios y Emprendimiento', 'negocio'], ['Contenido Digital', 'contenido']];
+    const categoriasHTML = categorias.map((category) => <CategoriaFooter category={category[0]} clase={category[1]} />);
+
     return (
       <div className='footer'>
         <div className='logo'>
@@ -33,26 +43,45 @@ class Footer extends Component {
           <Instagram />
         </div>
         <div className='categorias'>
-          <CategoriaFooter />
-          <CategoriaFooter />
-          <CategoriaFooter />
+          {categoriasHTML}
         </div>
-        <div className='reconocimientos' />
+        <div className='reconocimientos'>
+          <p>Certificados oficiales en tecnologías</p>
+          <div className='imagenes'>
+            <img src={ibm} alt='' />
+            <img src={unity} alt='' />
+          </div>
+          <p>Reconocidos y premiados por</p>
+          <div className='imagenes'>
+            <img src={yc} alt='' />
+            <img src={asu} alt='' />
+          </div>
+        </div>
         <div className='correo'>
           <p>Entérate de todas las novedades en educación, negocios y tecnología</p>
           <div className='inputs'>
-            <input className='text' type='text' spaceholder='Ingresa tu correo electrónico' />
-            <input className='button' type='button' value='suscribete' />
+            <input className='text' type='text' placeholder='Ingresa tu correo electrónico' />
+            <input className='button' type='button' value='suscríbete' />
           </div>
         </div>
         <div className='enlaces'>
           {enlacesHTML}
         </div>
         <div className='idiomas'>
-          <Idioma abrev='PT' img='../assets/static/perfil.jpg' />
-          <Idioma abrev='ES' img='../assets/static/perfil.jpg' />
-          <Idioma abrev='EN' img='../assets/static/perfil.jpg' />
+          <div className='idioma'>
+            <p>PT</p>
+            <img src={brasil} alt='' />
+          </div>
+          <div className='idioma'>
+            <p>ES</p>
+            <img src={espana} alt='' />
+          </div>
+          <div className='idioma'>
+            <p>EN</p>
+            <img src={united} alt='' />
+          </div>
         </div>
+        <p className='deLATAM'>De LATAM con 💚 para el mundo</p>
       </div>
     );
   }

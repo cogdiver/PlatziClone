@@ -72,3 +72,100 @@
     }
   }
 }
+@mixin colorCategory($color,$borde,$fill) {
+  @if $color==1 {
+    & .marketing{
+      color: $color-marketing;
+    }
+    & .ux{
+      color: $color-ux;
+    }
+    & .ingles{
+      color: $color-ingles;
+    }
+    & .startups{
+      color: $color-startups;
+    }
+    & .desarrollo{
+      color: $color-desarrollo;
+    }
+    & .habilidades{
+      color: $color-habilidades;
+    }
+    & .negocio{
+      color: $color-negocio;
+    }
+    & .contenido{
+      color: $color-contenido;
+    }
+    
+  }
+  @if $borde==1 {
+    & .marketing{
+      border-color: $color-marketing;
+    }
+    & .ux{
+      border-color: $color-ux;
+    }
+    & .ingles{
+      border-color: $color-ingles;
+    }
+    & .startups{
+      border-color: $color-startups;
+    }
+    & .desarrollo{
+      border-color: $color-desarrollo;
+    }
+    & .habilidades{
+      border-color: $color-habilidades;
+    }
+    & .negocio{
+      border-color: $color-negocio;
+    }
+    & .contenido{
+      border-color: $color-contenido;
+    }
+  }
+  @if $fill==1 {
+    & .marketing{
+      & svg{
+        fill: $color-marketing;
+      }
+    }
+    & .ux{
+      & svg{
+        fill: $color-ux;
+      }
+    }
+    & .ingles{
+      & svg{
+        fill: $color-ingles;
+      }
+    }
+    & .startups{
+      & svg{
+        fill: $color-startups;
+      }
+    }
+    & .desarrollo{
+      & svg{
+        fill: $color-desarrollo;
+      }
+    }
+    & .habilidades{
+      & svg{
+        fill: $color-habilidades;
+      }
+    }
+    & .negocio{
+      & svg{
+        fill: $color-negocio;
+      }
+    }
+    & .contenido{
+      & svg{
+        fill: $color-contenido;
+      }
+    }
+  }
+}

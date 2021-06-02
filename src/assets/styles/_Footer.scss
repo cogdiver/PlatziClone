@@ -26,20 +26,35 @@
   }
   & .categorias{
     margin: 30px auto;
-    border: 1px solid $color-amarillo;
-    height: 190px;
     width: 250px;
+    & .category{
+      border-left: transparent 4px solid;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+      padding-left: 10px;
+      font-size: 0.7rem;
+    }
+    & svg{
+      transform: rotate(-90deg);
+      height: 10px;
+    }
+    @include colorCategory(0,1,1);
   }
   & .reconocimientos{
-    margin: 30px auto;
-    border: 1px solid $color-amarillo;
-    height: 115px;
-    width: 160px;
+    margin: 0 auto 20px;
+    display: grid;
+    justify-items: center;
+    font-size: 0.8rem;
+    & img{
+      height: 25px;
+      margin: 10px 10px 20px;
+    }
 
   }
   & .correo{
     font-size: 0.8rem;
-    margin: 0 15px;
     text-align: center;
     & .inputs{
       display: flex;
@@ -57,8 +72,14 @@
         background-color: transparent;
         color: $color-fuente;
         padding: 0 10px;
-        width: 200px;
-        
+        width: 185px;
+        outline: none;
+        &::placeholder{
+          color: $color-fuente;
+        }
+        &:focus::placeholder{
+          color: $color-opaco;
+        }
       }
       & .button{
         border-radius: 0 4px 4px 0;
@@ -71,7 +92,41 @@
     }
   }
   & .enlaces{
+    justify-content: center;
+    margin-top: 25px;
     display: flex;
     flex-wrap: wrap;
+    font-size: 0.7rem;
+    & > a{
+      margin: 0 5px 7px;
+    }
+  }
+  & .idiomas{
+    margin-top: 15px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(3, auto);
+    column-gap: 20px;
+    & .idioma{
+      border: 1px solid $color-opaco;
+      border-radius: 3px;
+      padding: 5px 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.9rem;
+      & img{
+        width: 16px;
+        height: 16px;
+        border-radius: 16px;
+        margin-left: 10px;
+      }
+    }
+  }
+  & .deLATAM{
+    font-size: 0.8rem;
+    margin-top: 15px;
+    margin-bottom: 20px;
   }
 }

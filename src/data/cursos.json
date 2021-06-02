@@ -1,0 +1,1300 @@
+{
+  "cursos": {
+    "Curso de Introducción al Diseño":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Técnicas para Desarrollar tu Creatividad":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Uso y Manejo del Color":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso Básico de Photoshop":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Estrategia Visual de Marca":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Diseño Visual de Marcas":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Diseño y Creación de Logos":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Implementación Visual de Marca":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Illustrator":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso Práctico de Composición Visual":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Introducción a Motion Graphics con After Effects":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Introducción al Dibujo de Anatomía y Figura Humana":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Dibujo de Retrato":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Técnicas y Metodologías de Ilustración a Mano":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Ilustración con Photoshop":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Ilustración Digital con Procreate":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Ilustración Digital con Vectores":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Introducción  a la Creación de Personajes":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Introducción a la Creación de Personajes":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Humor Gráfico para Principiantes":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Arte para Personajes 2D":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Animación de Personajes":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Arte Conceptual de Escenarios":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Diseño y Modelado de Escenarios para Videojuegos":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Texturizado de Escenarios para Videojuegos":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Modelado 3D con Maya":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Texturizado 3D con Substance Painter":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Fundamentos del Diseño Editorial":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Adobe InDesign":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Tipografía":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Serigrafía Textil":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Lettering":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Illustrator Avanzado":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Diseño de Empaques":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso Profesional de After Effects":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    },
+    "Curso de Cinema 4D: Dirección de Arte en Proyectos Publicitarios":{
+      "id":0,
+      "imagen":"url",
+      "profesor":["profesor1"],
+      "escuelas":["escuela1"],
+      "rutas":["ruta1","ruta2"],
+      "modulos":{
+        "modulo1":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo2":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        },
+        "modulo3":{
+          "nombre":"Nombre del modulo",
+          "clases":{
+            "clase1":{
+              "id":0,
+              "nombre":"Nombre de la clase"
+            }
+          }
+        }
+      }
+    }
+  }
+}
