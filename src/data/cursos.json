@@ -1,11 +1,664 @@
 {
-  "cursos": {
-    "Curso de Introducción al Diseño":{
+  "noticias":[
+    {
+      "id":0,
+      "titulo":""
+    }
+  ],
+  "misRutas":{
+
+  },
+  "comentarios":{
+    "id":1,
+    "idAsociado":5,
+    "usuario":"",
+    "respuestas":[]
+  },
+  "categorias":[
+    {
+      "name":"Marketing",
+      "id":1,
+      "paths":["outbound-marketing","inbound-marketing","estrategia-marketing","email-marketing","data-marketing","ventas-mercadeo","publicidad","marketing-digital"]
+    },
+    {
+      "name":"Startups",
+      "id":2,
+      "paths":["startups"]
+    },
+    {
+      "name":"Idiomas",
+      "id":3,
+      "paths":["idioma-ingles","idioma-portugues"]
+    },
+    {
+      "name":"Diseño y UX",
+      "id":4,
+      "paths":["diseno-ux","diseno-producto","interfaces-ui","diseno-grafico"]
+    },
+    {
+      "name":"Desarrollo e Ingeniería",
+      "id":5,
+      "paths":["seguridad-informatica","desarrollo-java","desarrollo-wordpress","fundamentos-programacion","backend-python","ibm-cloud","apple-fullstack","google-cloud","asp-net","backend-go","backend-ruby","base-de-datos","desarrollo-php","desarrollo-react","desarrollo-angular","multiplataforma-xamarin","firebase","iot","servidores","vue","desarrollo-unity","multiplataforma","aws","matematicas-programacion","ciencia","ai","arquitecto-frontend-old","escuela-javascript","backend-javascript","web","matematicas","react-native","videojuegos","datos","azure","desarrollo-android","software"]
+    },
+    {
+      "name":"Habilidades Blandas",
+      "id":6,
+      "paths":["habilidades-blandas"]
+    },
+    {
+      "name":"Contenido Digital",
+      "id":7,
+      "paths":["periodismo-digital","produccion-video"]
+    },
+    {
+      "name":"Negocios y Emprendimiento",
+      "id":8,
+      "paths":["blockchain-criptomonedas","negocios","ecommerce","finanzas"]
+    }
+  ],
+  "paths":[
+    {
+      "id":"outbound-marketing",
+      "name":"Outbound Marketing",
+      "description":"El Outbound Marketing es una técnica del mercadeo con un enfoque centrado en el producto, llamando la atención del usuario de una manera abrupta.",
+      "cursos":{
+        "basico":["introduccion-marketing","copywriting-digital"],
+        "intermedio":["twitter-ads","google-adwords","fb-analytics","facebook-ads","growth-marketing"],
+        "avanzado":["especializacion-marketing"]
+      }
+    },
+    {
+      "id":"inbound-marketing",
+      "name":"Inbound Marketing",
+      "description":"Se especializa en atraer clientes potenciales a través de contenidos relevantes o experiencias de valor no invasivas.",
+      "cursos":{
+        "basico":["introduccion-marketing","marca-personal","ortografia-basica","copywriting-digital","contenido","escritura-online","desbloquea-creatividad","marketing-voz","ig-fundamentos"],
+        "intermedio":["ig-stories","copy-storytelling","community-manager","content-marketing","influencer","movil"],
+        "avanzado":["marketing-redes","especializacion-marketing","psicologia-consumidor","growth-marketing","contenidos-digitales","estrategia-instagram"],
+        "complementario":["seo"]
+      }
+    },
+    {
+      "id":"estrategia-marketing",
+      "name":"Marketing Digital y Estrategia Online",
+      "description":"El marketing digital es un conjunto de estrategias que se implementan en medios digitales para comercializar productos y servicios o posicionar una marca.",
+      "cursos":{
+        "basico":["introduccion-marketing","copy-storytelling","contenido","facebook-ads","email-marketing","google-adwords","spark-ar"],
+        "intermedio":["community-manager","especializacion-marketing","posicionamiento-marca","seo","copywriting-digital","seo-recomendaciones","seo-tecnico"],
+        "avanzado":["contenido-seo","growth-marketing","fb-analytics","programacion-marketing","marketing-redes","crisis-redes","content-marketing","marketing-youtube"]
+      }
+    },
+    {
+      "id":"email-marketing",
+      "name":"Email Marketing",
+      "description":"Aprende a planear y optimizar campañas de Email Marketing, crear contenido personalizado y estructurar emails responsive con Photoshop, HTML y CSS.",
+      "cursos":{
+        "basico":["ortografia-basica","escritura-online","fundamentos-diseno","email-marketing"],
+        "intermedio":["copy-storytelling","bd"],
+        "avanzado":["diseno-email","photoshop-basico"],
+        "complementario":["growth-marketing-2016"]
+      }
+    },
+    {
+      "id":"data-marketing",
+      "name":"Marketing Basado en Datos",
+      "description":"Desde Google Analytics hasta tu base de datos son fuentes de información que te ayudarán a tomar las decisiones correctas en tus campañas de marketing.",
+      "cursos":{
+        "basico":["programacion-basica","bd"],
+        "intermedio":["introduccion-marketing","growth-marketing","movil"],
+        "avanzado":["gtm","facebook-ads","google-adwords","google-analytics","fb-analytics","data-studio"]
+      }
+    },
+    {
+      "id":"ventas-mercadeo",
+      "name":"Marketing y Ventas",
+      "description":"Crea tu perfil comercial y desarrolla estrategias de ventas con herramientas de marketing para atraer, persuadir y retener a tus clientes.",
+      "cursos":{
+        "basico":["","","",""],
+        "intermedio":["","","","","",""],
+        "avanzado":["","","",""]
+      }
+    },
+    {
+      "id":"publicidad",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"marketing-digital",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"startups",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"idioma-ingles",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"idioma-portugues",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"diseno-ux",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"diseno-producto",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"interfaces-ui",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"diseno-grafico",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"seguridad-informatica",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"desarrollo-java",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"desarrollo-wordpress",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"fundamentos-programacion",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"backend-python",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"ibm-cloud",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"apple-fullstack",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"google-cloud",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"asp-net",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"backend-go",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"backend-ruby",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"base-de-datos",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"desarrollo-php",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"desarrollo-react",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"desarrollo-angular",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"multiplataforma-xamarin",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"firebase",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"iot",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"servidores",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"vue",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"desarrollo-unity",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"multiplataforma",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"aws",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"matematicas-programacion",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"ciencia",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"ai",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"arquitecto-frontend-old",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"escuela-javascript",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"backend-javascript",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"web",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"matematicas",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"react-native",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"videojuegos",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"datos",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"azure",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"desarrollo-android",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"software",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"habilidades-blandas",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"periodismo-digital",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"produccion-video",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"blockchain-criptomonedas",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"negocios",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"ecommerce",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    },
+    {
+      "id":"finanzas",
+      "name":"",
+      "description":"",
+      "cursos":{
+        "basico":["","",""],
+        "intermedio":["","",""],
+        "avanzado":["","",""]
+      }
+    }
+  ],
+  "cursos": [
+    {
+      "name":"Curso de Introducción al Diseño",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -36,12 +689,14 @@
         }
       }
     },
-    "Curso de Técnicas para Desarrollar tu Creatividad":{
+    {
+      "name":"Curso de Técnicas para Desarrollar tu Creatividad",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -72,12 +727,14 @@
         }
       }
     },
-    "Curso de Uso y Manejo del Color":{
+    {
+      "name":"Curso de Uso y Manejo del Color",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -108,12 +765,14 @@
         }
       }
     },
-    "Curso Básico de Photoshop":{
+    {
+      "name":"Curso Básico de Photoshop",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -144,12 +803,14 @@
         }
       }
     },
-    "Curso de Estrategia Visual de Marca":{
+    {
+      "name":"Curso de Estrategia Visual de Marca",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -180,12 +841,14 @@
         }
       }
     },
-    "Curso de Diseño Visual de Marcas":{
+    {
+      "name":"Curso de Diseño Visual de Marcas",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -216,12 +879,14 @@
         }
       }
     },
-    "Curso de Diseño y Creación de Logos":{
+    {
+      "name":"Curso de Diseño y Creación de Logos",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -252,12 +917,14 @@
         }
       }
     },
-    "Curso de Implementación Visual de Marca":{
+    {
+      "name":"Curso de Implementación Visual de Marca",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -288,12 +955,14 @@
         }
       }
     },
-    "Curso de Illustrator":{
+    {
+      "name":"Curso de Illustrator",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -324,12 +993,14 @@
         }
       }
     },
-    "Curso Práctico de Composición Visual":{
+    {
+      "name":"Curso Práctico de Composición Visual",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -360,12 +1031,14 @@
         }
       }
     },
-    "Curso de Introducción a Motion Graphics con After Effects":{
+    {
+      "name":"Curso de Introducción a Motion Graphics con After Effects",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -396,12 +1069,14 @@
         }
       }
     },
-    "Curso de Introducción al Dibujo de Anatomía y Figura Humana":{
+    {
+      "name":"Curso de Introducción al Dibujo de Anatomía y Figura Humana",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -432,12 +1107,14 @@
         }
       }
     },
-    "Curso de Dibujo de Retrato":{
+    {
+      "name":"Curso de Dibujo de Retrato",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -468,12 +1145,14 @@
         }
       }
     },
-    "Curso de Técnicas y Metodologías de Ilustración a Mano":{
+    {
+      "name":"Curso de Técnicas y Metodologías de Ilustración a Mano",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -504,12 +1183,14 @@
         }
       }
     },
-    "Curso de Ilustración con Photoshop":{
+    {
+      "name":"Curso de Ilustración con Photoshop",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -540,12 +1221,14 @@
         }
       }
     },
-    "Curso de Ilustración Digital con Procreate":{
+    {
+      "name":"Curso de Ilustración Digital con Procreate",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -576,12 +1259,14 @@
         }
       }
     },
-    "Curso de Ilustración Digital con Vectores":{
+    {
+      "name":"Curso de Ilustración Digital con Vectores",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -612,12 +1297,14 @@
         }
       }
     },
-    "Curso de Introducción  a la Creación de Personajes":{
+    {
+      "name":"Curso de Introducción  a la Creación de Personajes",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -648,12 +1335,14 @@
         }
       }
     },
-    "Curso de Introducción a la Creación de Personajes":{
+    {
+      "name":"Curso de Introducción a la Creación de Personajes",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -684,12 +1373,14 @@
         }
       }
     },
-    "Curso de Humor Gráfico para Principiantes":{
+    {
+      "name":"Curso de Humor Gráfico para Principiantes",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -720,12 +1411,14 @@
         }
       }
     },
-    "Curso de Arte para Personajes 2D":{
+    {
+      "name":"Curso de Arte para Personajes 2D",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -756,12 +1449,14 @@
         }
       }
     },
-    "Curso de Animación de Personajes":{
+    {
+      "name":"Curso de Animación de Personajes",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -792,12 +1487,14 @@
         }
       }
     },
-    "Curso de Arte Conceptual de Escenarios":{
+    {
+      "name":"Curso de Arte Conceptual de Escenarios",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -828,12 +1525,14 @@
         }
       }
     },
-    "Curso de Diseño y Modelado de Escenarios para Videojuegos":{
+    {
+      "name":"Curso de Diseño y Modelado de Escenarios para Videojuegos",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -864,12 +1563,14 @@
         }
       }
     },
-    "Curso de Texturizado de Escenarios para Videojuegos":{
+    {
+      "name":"Curso de Texturizado de Escenarios para Videojuegos",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -900,12 +1601,14 @@
         }
       }
     },
-    "Curso de Modelado 3D con Maya":{
+    {
+      "name":"Curso de Modelado 3D con Maya",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -936,12 +1639,14 @@
         }
       }
     },
-    "Curso de Texturizado 3D con Substance Painter":{
+    {
+      "name":"Curso de Texturizado 3D con Substance Painter",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -972,12 +1677,14 @@
         }
       }
     },
-    "Curso de Fundamentos del Diseño Editorial":{
+    {
+      "name":"Curso de Fundamentos del Diseño Editorial",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1008,12 +1715,14 @@
         }
       }
     },
-    "Curso de Adobe InDesign":{
+    {
+      "name":"Curso de Adobe InDesign",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1044,12 +1753,14 @@
         }
       }
     },
-    "Curso de Tipografía":{
+    {
+      "name":"Curso de Tipografía",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1080,12 +1791,14 @@
         }
       }
     },
-    "Curso de Serigrafía Textil":{
+    {
+      "name":"Curso de Serigrafía Textil",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1116,12 +1829,14 @@
         }
       }
     },
-    "Curso de Lettering":{
+    {
+      "name":"Curso de Lettering",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1152,12 +1867,14 @@
         }
       }
     },
-    "Curso de Illustrator Avanzado":{
+    {
+      "name":"Curso de Illustrator Avanzado",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1188,12 +1905,14 @@
         }
       }
     },
-    "Curso de Diseño de Empaques":{
+    {
+      "name":"Curso de Diseño de Empaques",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1224,12 +1943,14 @@
         }
       }
     },
-    "Curso Profesional de After Effects":{
+    {
+      "name":"Curso Profesional de After Effects",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1260,12 +1981,14 @@
         }
       }
     },
-    "Curso de Cinema 4D: Dirección de Arte en Proyectos Publicitarios":{
+    {
+      "name":"Curso de Cinema 4D: Dirección de Arte en Proyectos Publicitarios",
       "id":0,
       "imagen":"url",
       "profesor":["profesor1"],
       "escuelas":["escuela1"],
       "rutas":["ruta1","ruta2"],
+      "estado":"nuevo",
       "modulos":{
         "modulo1":{
           "nombre":"Nombre del modulo",
@@ -1296,5 +2019,5 @@
         }
       }
     }
-  }
+  ]
 }
