@@ -114,149 +114,156 @@
       "name":"Marketing y Ventas",
       "description":"Crea tu perfil comercial y desarrolla estrategias de ventas con herramientas de marketing para atraer, persuadir y retener a tus clientes.",
       "cursos":{
-        "basico":["","","",""],
-        "intermedio":["","","","","",""],
-        "avanzado":["","","",""]
+        "basico":["marca-personal","hablar-en-publico","ventas-practico","habilidades-blandas"],
+        "intermedio":["tecnicas-negociacion","estrategia-comercial","crm-salesforce","atencion-cliente","ventas","inteligencia-emocional"],
+        "avanzado":["ingles","escritura-ingles","fidelizacion","comercial-b2b"],
+        "complementario":["trello","google-suite"]
       }
     },
     {
       "id":"publicidad",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Publicidad Digital",
+      "description":"Te enseñaremos a crear campañas de publicidad online de alto impacto en redes como Facebook Ads y Google Ads mientras aprendes de optimización y estrategia",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["marca-personal","publicidad-digital","introduccion-marketing","excel","contenidos-digitales","marketing-navidad"],
+        "intermedio":["google-analytics","fb-analytics","growth-marketing","campanas-digitales","facebook-ads","google-adwords","twitter-ads","desbloquea-creatividad","copywriting-digital","psicologia-consumidor","instagram"],
+        "avanzado":["data-studio","programmatic","coolhunting","liderazgo-empresarial","movil","marketing-videojuegos","bi-excel","power-bi"]
       }
     },
     {
       "id":"marketing-digital",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Marketing Digital",
+      "description":"Te enseñaremos a crear y desarrollar estrategias de Marketing Digital para redes sociales, SEO, marketing de contenidos, e-mail marketing y marketing móvil.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["introduccion-marketing","community-manager","contenido","copywriting-digital","seo","google-analytics","marca-personal","construccion-marca","excel","ig-fundamentos","estrategias-contenido-linkedin","marketing-youtube","whatsapp-business","marketing-creativo","marketing-voz","marketing-navidad","inbound-marketing","marketing-pymes","terminos-marketing-digital"],
+        "intermedio":["content-marketing","marketing-redes","fb-analytics","email-marketing","diseno-email","gtm","seo-tecnico","copy-storytelling","investigacion-mercados","posicionamiento-marca","seo-recomendaciones","estrategia-instagram","ig-stories","marketing-vg","data-studio"],
+        "avanzado":["especializacion-marketing","contenido-seo","google-search-console","movil","growth-marketing","relaciones-publicas","listening","automatizacion-marketing","influencer","crisis-redes","psicologia-consumidor","gtm-marketing","coolhunting","spark-ar","campanas-digitales","marketing-ecommerce","estrategia-videojuegos","marketing-videojuegos"]
       }
     },
     {
       "id":"startups",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Startups",
+      "description":"Empieza a crear tu Startup y si ya tienes una acelérala. Aprende a afrontar los desafíos como actual o futuro emprendedor. ¡Crea el próximo unicornio!",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["canvas","camino-emprendedor","creacion-de-empresas","construccion-marca","creatividad-innovacion","ingles-startups"],
+        "intermedio":["taller-startups","financiera-startups","seo","legales-startups","seguridad-empresas","cultura-startups","reclutamiento-talento","internacionalizacion-startups","logistica-startups","liderazgo-equipos","analitica-instrumentacion","growth-startups","growth-startups","colaboracion-corporaciones-startups","leyes-ui","entrar-yc","inversion-startups"],
+        "avanzado":["google-suite","trello","google-analytics","aws-cloud","zapier"],
+        "complementario":["excel-financiero","estrategia-comercial","bi-excel","comercial-b2b","prevencion","liderazgo-empresarial","ico"]
       }
     },
     {
       "id":"idioma-ingles",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Inglés",
+      "description":"Aprende inglés desde cero. Consigue oportunidades de trabajo internacionales y duplica tus ingresos al comunicarte efectivamente en inglés.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["estrategias-ingles","ingles-principiantes","taller-principiantes","ingles-basico","ingles-gramatica","ingles-basico-descripciones-comparativos","ingles-conversacion","ingles-conversacionpronunciacion-ingles","ingles-compras","ingles-basico-escritura"],
+        "intermedio":["ingles-1","ingles-2","ingles-facil-speaking","ingles-practico-pronuncia","intermedio-gramatica","ingles-intermedio-conversacion","pronunciacion-intermedio","ingles-trabajo","ingles-intermedio"],
+        "avanzado":["gramatica-b2","inglesb2-conversacion","avanzado-gramatica","conversacion-avanzado","pronunciacion-avanzado","ingles-avanzado-trabajo"]
+        ,"complementario":["ingles-customer-service","entrevistas-ingles","ingles","escritura-ingles","ingles-developers","ingles-marketing","ingles-negocios","ingles-finanzas","ingles-startups","preparacion-toefl","preparacion-ielts","ingles-produccion","ingles-viajes"]
       }
     },
     {
       "id":"idioma-portugues",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Portugués",
+      "description":"Aprende portugués desde cero. Consigue oportunidades de trabajo internacionales y duplica tus ingresos al comunicarte efectivamente en portugués.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["aprender-portugues","portugues","portugues-practico"],
+        "intermedio":["portugues-cotidiano"],
+        "avanzado":["portugues-servicio","portugues-viajes"]
       }
     },
     {
       "id":"diseno-ux",
-      "name":"",
-      "description":"",
+      "name":"Diseño de Experiencia de Usuario (UX Design)",
+      "description":"Aborda los problemas desde la perspectiva de los usuarios, identifica oportunidades de mejora y crea soluciones innovadoras que perduren en el tiempo.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["design-thinking","fundamentos-diseno","solucion-problemas","diseno-usuario","usabilidad-ux","diseno-interfaces-ux"],
+        "intermedio":["lean-ux","user-research","ux-testing","ux-writing","arquitectura-informacion","ux-writing-avanzado","accesibilidad-web","prototipos-testing"],
+        "avanzado":["ux-avanzado","design-sprint","canvas","curso-de-thick-data","usabilidad-practico","uxempresas","investigacion-cliente-practico"]
       }
     },
     {
       "id":"diseno-producto",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Product Design",
+      "description":"Crea productos y servicios con sistemas de diseño centrados en el usuario implementando metodologías y herramientas UIUX",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["design-thinking","fundamentos-diseno","prototipos-testing","photoshop-basico","diseno-editorial","marca-visual","illustrator","tecnicas-creatividad","metodologias-diseno-producto","product-designer","diseno-interfaces-ux","diseno-usuario","sistemas-diseno","usabilidad-ux","user-research","arquitectura-informacion","sketch","adobe-xd","diseno-interfaz","figma"],
+        "intermedio":["diseno-prototipos","ux-writing","ux-testing","design-sprint","lean-ux","accesibilidad-web","uxempresas"],
+        "avanzado":["servicios","usabilidad-practico","ux-avanzado","lider-diseno","brief","gamification","ux-ecommerce","coolhunting"]
       }
     },
     {
       "id":"interfaces-ui",
-      "name":"",
-      "description":"",
+      "name":"Diseño de Interfaces (UI)",
+      "description":"Es el área del diseño que se enfoca en la parte visual de un producto digital. Permite crear interfaces intuitivas, usables, interactivas e impactantes.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["design-thinking","fundamentos-diseno","diseno-interfaces-ux","arquitectura-informacion","illustrator"],
+        "intermedio":["diseno-prototipos","sketch","adobe-xd","design-sprint","figma"],
+        "avanzado":["ilustracion-digital","ilustracion-illustrator","diseno-programadores","html-practico"]
       }
     },
     {
       "id":"diseno-grafico",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Diseño Gráfico",
+      "description":"Domina las herramientas y habilidades para triunfar como diseñador gráfico. Comunica visualmente a través de diseños publicitarios, ilustraciones y branding.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["fundamentos-diseno","tecnicas-creatividad","color","photoshop-basico","estrategia-visual","marca-visual","logos","implementacion-marca","illustrator","visual","motion-after"],
+        "intermedio":["dibujo-figura","dibujo-retrato","ilustracion-analoga","ilustracion-photoshop","procreate","ilustracion-illustrator","creacion-personajes","humor-grafico","personajes-2d","animacion-personajes","arte-escenarios","escenarios-videojuegos","texturizado-videojuegos","modelo-3dmaya","textura-3dmaya"],
+        "avanzado":["diseno-editorial","indesign","diseno-tipografia","serigrafia","lettering","illustrator-avanzado","diseno-empaques","after-effects","cinema-4d"]
       }
     },
     {
       "id":"seguridad-informatica",
-      "name":"",
-      "description":"",
+      "name":"Seguridad Informática",
+      "description":"Seguridad Informática es el área que encargada de proteger la transferencia de información a través Internet, resguardarla ante ataques y robo de datos.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","seguridad-empresas","iso","ingenieria-social","dlp","redes"],
+        "intermedio":["linux","seguridad-informatica","pentesting","pentesting-redes","forense","ethical-hacking","malware","malware-moviles"],
+        "avanzado":["avanzado-redes","autenticacion-oauth"],
+        "complementario":["terminal-2016","pentesting-2016","linux-2017","pentesting-2019","seguridad"]
       }
     },
     {
       "id":"desarrollo-java",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo Backend con Java",
+      "description":"Java es uno de los lenguajes más demandados en la industria, escribe una vez y córrelo donde quieras, es la filosofía de Java.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","git-github","oop","java-basico","java-oop","kotlin"],
+        "intermedio":["bd","postgresql","java-persistencia"],
+        "avanzado":["testing-java","java-funcional","java-spring","java-avanzado"],
+        "complementario":["tecnico-android","interfaces-android","kotlin-android","firestore","arquitectura-android"]
       }
     },
     {
       "id":"desarrollo-wordpress",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo con WordPress",
+      "description":"WordPress es el sistema de gestión de contenidos (CMS) más popular de internet con el que están creados más de 500 millones de sitios en la web.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["woocommerce","fundamentos-ecommerce"],
+        "intermedio":["html-practico","basico-javascript","php","datos-php","oop","php-poo","mejor-codigo","bd"],
+        "avanzado":["fundamentos-wordpress","wordpress-profesional"],
+        "complementario":["seo-wordpress","wordpress"]
       }
     },
     {
       "id":"fundamentos-programacion",
-      "name":"",
-      "description":"",
+      "name":"Fundamentos de programación",
+      "description":"Da tus primeros pasos en el mundo de la programación aprendiendo sus estructuras fundamentales y la lógica funcional detrás de cada línea de código.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["pensamiento-logico","programacion-basica","terminal","git-github","desarrollo-moderno-codestream","ingenieria","redes","lenguaje-c","flujo-c","funciones-c","c-plus-plus"],
+        "intermedio":["introweb","historia-programacion","programacion-estructurada","oop","bd","expresiones-regulares"],
+        "avanzado":["arquitectura-software","pro-arquitectura","uipath","analista-rpa","bash-shell","technical-writing","mejor-codigo","pruebas-software","diseno-programadores","cobol","cobol-practico"],
+        "complementario":["python-cs","python","desarrollo-lenguajes-programacion","python-intermedio","interpretes-software"]
       }
     },
     {
       "id":"backend-python",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo Backend con Python y Django",
+      "description":"Django es un framework de desarrollo Web basado en Python, este provee herramientas esenciales para la construcción de aplicaciones seguras y escalables.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","git-github","python","python-cs","python-intermedio","poo-python","oop","bd","intro-selenium"],
+        "intermedio":["python-practico","flask","estructuras-datos-python"],
+        "avanzado":["django","django-avanzado"]
       }
     },
     {
@@ -581,72 +588,76 @@
     },
     {
       "id":"habilidades-blandas",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Habilidades Blandas",
+      "description":"Aprende a aprender, desarrolla tus habilidades blandas, gestiona tu tiempo y tus emociones. Conviértete en un líder y crea equipos de alto rendimiento.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["aprender","productividad","gestion-tiempo","formacion","desbloquea-creatividad","solucion-problemas","inteligencia-emocional","crecimiento-personal","estrategias-comunicar","comunicacion-asertiva","meditacion","manejo-ansiedad-terapify","prevencion"],
+        "intermedio":["portafolios","futuro-profesional","taller-carrera","networking-efectivo","taller-trabajo","perfil-profesional","entrevista-trabajo","marca-personal","entrevistas-ingles","trabajar-freelance","creatividad-financiera"],
+        "avanzado":["hablar-en-publico","comunicacion-equipos","habilidades-blandas","liderazgo-basico","liderazgo-equipos","motivacion","liderazgo-creativo","gestion-cambio","fundamentos-coaching"],
+        "complementario":["ortografia-basica","escritura-online","organizacion-digital","microsoft-word","excel","microsoft-powerpoint","keynote","diversidad-inclusion","inclusion-discapacidad-auditiva"]
       }
     },
     {
       "id":"periodismo-digital",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Periodismo Digital",
+      "description":"El periodismo digital hace referencia a los contenidos periodísticos que son creados, distribuidos y monetizados por medio de herramientas y entornos digitales.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["ortografia-basica","escritura-online","seo","fundamentos-periodismo","entrevistas-periodisticas"],
+        "intermedio":["creacion-podcasts","storytelling-2018","fotografia-telefono","streaming-telefono"],
+        "avanzado":["edicion-periodistica","generos-periodisticos","periodismo-movil","criterio-digital","periodismo-tecnologico"]
       }
     },
     {
       "id":"produccion-video",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Producción Audiovisual",
+      "description":"Alcanza tus objetivos de formación en producción audiovisual, de audio, fotografía y nuevos medios. Domina narrativa y técnica para lograr productos increíbles.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["estrategia-video","ig-stories","streaming-telefono","contenido-tiktok","fotografia-telefono","contenido-youtube","cine-movil","creacion-podcasts"],
+        "intermedio":["fotografia","fotografia-redes","photoshop-profesional","tecnicas-iluminacion","light-painting","guion-series","construccion-personajes","fotografia-lightroom","contenidos-digitales","storytelling","narrativa-cinematografica"],
+        "avanzado":["bites-produccion-audiovisual","lenguaje-audiovisual","produccion-audiovisual-cinematografica","presentacion-productos-audiovisuales","produccion-animacion","adobe-premiere","after-effects","audio-produccion","creacion-reels","pro-tools","colorizacion-davinci","rol-productor","rol-montajista"]
       }
     },
     {
       "id":"blockchain-criptomonedas",
-      "name":"",
-      "description":"",
+      "name":"Blockchain y Criptomonedas",
+      "description":"La tecnología Blockchain ha llegado para quedarse y las empresas demandan a especialistas en el área. Las criptomonedas son gran ejemplo de su aplicación.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["economia-digital","inversion-criptomonedas","finanzas"],
+        "intermedio":["ico","finanzas-futuro"],
+        "avanzado":["trading-basico","trading-r","trading-criptomonedas"]
       }
     },
     {
       "id":"negocios",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Business Management",
+      "description":"Potencia tu negocio aprendiendo herramientas de administración, gestión y optimización orientadas a aumentar su competitividad y destacar en el mercado.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["canvas","curso-de-thick-data","design-sprint","gestion-digital","planificacion-proyectos","seguimiento-proyectos","seguridad-empresas"],
+        "intermedio":["proyectos-pmbok","negocios-data-science","visualizacion-datos","bi-excel","analitica-instrumentacion","analisis-datos-proyecto","estrategia-comercial","planeacion-financiera","tableau","tecnicas-negociacion","ventas","comercial-b2b","excel-financiero","evaluacion-financiera","coolhunting"],
+        "avanzado":["liderazgo-basico","liderazgo-empresarial","liderazgo-equipos","eng-management","equipos-agiles","capacitacion-equipos","motivacion","cultura-organizacional","teletrabajo-trabajo-remoto","gestion-cambio","tecnologia-gerentes","inteligencia-emocional","bioseguridad-empresas","prevencion"],
+        "complementario":["airtable","zapier","trello","microsoft-flow","slack","notion","google-suite","microsoft-teams","zoom"]
       }
     },
     {
       "id":"ecommerce",
-      "name":"",
-      "description":"",
+      "name":"Escuela de E-Commerce y Negocios Digitales",
+      "description":"Desarrolla las habilidades necesarias para crear un e-commerce y potencia tus conocimientos para triunfar con un negocio en internet.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["vender-internet","negocios-online","transforma-digital","redes-sociales","design-thinking","fundamentos-ecommerce","canvas","metricas-negociosemprendimiento-social","construccion-marca","pagos-electronicos","publicidad-digital"],
+        "intermedio":["woocommerce","fundamentos-wordpress","seo","wordpress-profesional","inventarios"],
+        "avanzado":["estrategia-comercial","ventas","tecnicas-negociacion","ventas-whatsapp","atencion-cliente","fidelizacion","bi-excel","financiamiento"],
+        "complementario":["marketing-pymes","pagos-online","marketing-redes","whatsapp-business","contenidos-digitales","posicionamiento-marca","marketing-ecommerce","campanas-digitales","marketing-navidad"]
       }
     },
     {
       "id":"finanzas",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Finanzas e Inversiones",
+      "description":"Aprende los fundamentos de las finanzas mientras gestionas tu dinero para no sólo ahorrar sino crear prácticas de inversión en activos de renta fija o variable.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["intro-finanzas","finanzas","manejo-deuda","creatividad-financiera","finanzas-futuro"],
+        "intermedio":["excel","financiamiento","excel-financiero","planeacion-financiera","presupuesto","evaluacion-financiera"],
+        "avanzado":["inversiones-mesfix","trading-basico","inversion-bolsa"],
+        "complementario":["declaracion-renta"]
       }
     }
   ],
