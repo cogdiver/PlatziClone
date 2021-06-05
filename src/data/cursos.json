@@ -94,15 +94,7 @@
     },
     {
       "id":"api-rest",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"api-rest",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"api-rest",
-      "paths":["software"]
+      "paths":["backend-ruby","desarrollo-php","software"]
     },
     {
       "id":"aplicaciones-huawei",
@@ -118,11 +110,7 @@
     },
     {
       "id":"apps-ios",
-      "paths":["apple-fullstack"]
-    },
-    {
-      "id":"apps-ios",
-      "paths":["multiplataforma"]
+      "paths":["apple-fullstack","multiplataforma"]
     },
     {
       "id":"apps-ios-2017",
@@ -142,11 +130,7 @@
     },
     {
       "id":"arquitectura-android",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"arquitectura-android",
-      "paths":["desarrollo-android"]
+      "paths":["desarrollo-java","desarrollo-android"]
     },
     {
       "id":"arquitectura-docker",
@@ -154,91 +138,23 @@
     },
     {
       "id":"arquitectura-informacion",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"arquitectura-informacion",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"arquitectura-informacion",
-      "paths":["interfaces-ui"]
+      "paths":["diseno-ux","diseno-producto","interfaces-ui"]
     },
     {
       "id":"arquitectura-software",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"arquitectura-software",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"arquitectura-software",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"arquitectura-software",
-      "paths":["web"]
-    },
-    {
-      "id":"arquitectura-software",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","backend-go","multiplataforma-xamarin","web","software"]
     },
     {
       "id":"arte-escenarios",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"arte-escenarios",
-      "paths":["videojuegos"]
+      "paths":["diseno-grafico","videojuegos"]
     },
     {
       "id":"asincronismo-js",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"asincronismo-js",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"asincronismo-js",
-      "paths":["vue"]
-    },
-    {
-      "id":"asincronismo-js",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"asincronismo-js",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"asincronismo-js",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"asincronismo-js",
-      "paths":["web"]
-    },
-    {
-      "id":"asincronismo-js",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","desarrollo-angular","vue","arquitecto-frontend-old","escuela-javascript","backend-javascript","web","react-native"]
     },
     {
       "id":"aspnet-core",
-      "paths":["asp-net"]
-    },
-    {
-      "id":"aspnet-core",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"aspnet-core",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"aspnet-core",
-      "paths":["azure"]
+      "paths":["asp-net","multiplataforma-xamarin","multiplataforma","azure"]
     },
     {
       "id":"astrobiologia",
@@ -246,11 +162,7 @@
     },
     {
       "id":"atencion-cliente",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"atencion-cliente",
-      "paths":["ecommerce"]
+      "paths":["ventas-mercadeo","ecommerce"]
     },
     {
       "id":"audio-produccion",
@@ -270,43 +182,19 @@
     },
     {
       "id":"avanzado-redes",
-      "paths":["seguridad-informatica"]
-    },
-    {
-      "id":"avanzado-redes",
-      "paths":["software"]
+      "paths":["seguridad-informatica","software"]
     },
     {
       "id":"avanzado-videojuegos",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"avanzado-videojuegos",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"avanzado-vue",
-      "paths":["vue"]
-    },
-    {
-      "id":"avanzado-vue",
-      "paths":["web"]
+      "paths":["vue","web"]
     },
     {
       "id":"aws-cloud",
-      "paths":["startups"]
-    },
-    {
-      "id":"aws-cloud",
-      "paths":["servidores"]
-    },
-    {
-      "id":"aws-cloud",
-      "paths":["aws"]
-    },
-    {
-      "id":"aws-cloud",
-      "paths":["software"]
+      "paths":["startups","servidores","aws","software"]
     },
     {
       "id":"aws-computo",
@@ -342,11 +230,7 @@
     },
     {
       "id":"azure-iaas",
-      "paths":["servidores"]
-    },
-    {
-      "id":"azure-iaas",
-      "paths":["azure"]
+      "paths":["servidores","azure"]
     },
     {
       "id":"azure-kubernetes-service",
@@ -366,179 +250,31 @@
     },
     {
       "id":"backend-js",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"backend-js",
-      "paths":["web"]
+      "paths":["backend-javascript","web"]
     },
     {
       "id":"backend-nodejs",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"backend-nodejs",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"backend-nodejs",
-      "paths":["web"]
+      "paths":["escuela-javascript","backend-javascript","web"]
     },
     {
       "id":"bash-shell",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"bash-shell",
-      "paths":["servidores"]
-    },
-    {
-      "id":"bash-shell",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","servidores","software"]
     },
     {
       "id":"basico-javascript",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["vue"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["web"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["react-native"]
-    },
-    {
-      "id":"basico-javascript",
-      "paths":["software"]
+      "paths":["desarrollo-wordpress","desarrollo-react","desarrollo-angular","vue","multiplataforma","arquitecto-frontend-old","escuela-javascript","backend-javascript","web","react-native","software"]
     },
     {
       "id":"bd",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"bd",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"bd",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"bd",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"bd",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"bd",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"bd",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"bd",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"bd",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"bd",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"bd",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"bd",
-      "paths":["firebase"]
-    },
-    {
-      "id":"bd",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"bd",
-      "paths":["web"]
-    },
-    {
-      "id":"bd",
-      "paths":["datos"]
-    },
-    {
-      "id":"bd",
-      "paths":["azure"]
-    },
-    {
-      "id":"bd",
-      "paths":["software"]
+      "paths":["email-marketing","data-marketing","desarrollo-java","desarrollo-wordpress","fundamentos-programacion","backend-python","backend-go","backend-ruby","base-de-datos","desarrollo-php","multiplataforma-xamarin","firebase","multiplataforma","web","datos","azure","software"]
     },
     {
       "id":"bff",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"bff",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"bff",
-      "paths":["web"]
+      "paths":["escuela-javascript","backend-javascript","web"]
     },
     {
       "id":"bi-excel",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"bi-excel",
-      "paths":["startups"]
-    },
-    {
-      "id":"bi-excel",
-      "paths":["datos"]
-    },
-    {
-      "id":"bi-excel",
-      "paths":["negocios"]
-    },
-    {
-      "id":"bi-excel",
-      "paths":["ecommerce"]
+      "paths":["publicidad","startups","datos","negocios","ecommerce"]
     },
     {
       "id":"big-data",
@@ -554,11 +290,7 @@
     },
     {
       "id":"blazor",
-      "paths":["asp-net"]
-    },
-    {
-      "id":"blazor",
-      "paths":["multiplataforma"]
+      "paths":["asp-net","multiplataforma"]
     },
     {
       "id":"bootstrap",
@@ -570,51 +302,23 @@
     },
     {
       "id":"calculo-data-science",
-      "paths":["ai"]
-    },
-    {
-      "id":"calculo-data-science",
-      "paths":["matematicas"]
-    },
-    {
-      "id":"calculo-data-science",
-      "paths":["datos"]
+      "paths":["ai","matematicas","datos"]
     },
     {
       "id":"calculo-datos",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"calculo-datos",
-      "paths":["matematicas"]
+      "paths":["matematicas-programacion","matematicas"]
     },
     {
       "id":"calculo-integral",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"calculo-integral",
-      "paths":["matematicas"]
+      "paths":["matematicas-programacion","matematicas"]
     },
     {
       "id":"calculo-integral-sustitucion",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"calculo-integral-sustitucion",
-      "paths":["matematicas"]
+      "paths":["matematicas-programacion","matematicas"]
     },
     {
       "id":"calculo-multivariable",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"calculo-multivariable",
-      "paths":["ai"]
-    },
-    {
-      "id":"calculo-multivariable",
-      "paths":["matematicas"]
+      "paths":["matematicas-programacion","ai","matematicas"]
     },
     {
       "id":"camino-emprendedor",
@@ -622,31 +326,11 @@
     },
     {
       "id":"campanas-digitales",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"campanas-digitales",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"campanas-digitales",
-      "paths":["ecommerce"]
+      "paths":["publicidad","marketing-digital","ecommerce"]
     },
     {
       "id":"canvas",
-      "paths":["startups"]
-    },
-    {
-      "id":"canvas",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"canvas",
-      "paths":["negocios"]
-    },
-    {
-      "id":"canvas",
-      "paths":["ecommerce"]
+      "paths":["startups","diseno-ux","negocios","ecommerce"]
     },
     {
       "id":"capacitacion-equipos",
@@ -666,11 +350,7 @@
     },
     {
       "id":"clasificacion-texto",
-      "paths":["ai"]
-    },
-    {
-      "id":"clasificacion-texto",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"clean-architecture",
@@ -702,35 +382,15 @@
     },
     {
       "id":"comercial-b2b",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"comercial-b2b",
-      "paths":["startups"]
-    },
-    {
-      "id":"comercial-b2b",
-      "paths":["negocios"]
+      "paths":["ventas-mercadeo","startups","negocios"]
     },
     {
       "id":"community-manager",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"community-manager",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"community-manager",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","estrategia-marketing","marketing-digital"]
     },
     {
       "id":"computacion-basica",
-      "paths":["web"]
-    },
-    {
-      "id":"computacion-basica",
-      "paths":["software"]
+      "paths":["web","software"]
     },
     {
       "id":"compute-engine",
@@ -746,15 +406,7 @@
     },
     {
       "id":"construccion-marca",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"construccion-marca",
-      "paths":["startups"]
-    },
-    {
-      "id":"construccion-marca",
-      "paths":["ecommerce"]
+      "paths":["marketing-digital","startups","ecommerce"]
     },
     {
       "id":"construccion-personajes",
@@ -762,39 +414,15 @@
     },
     {
       "id":"contenido",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"contenido",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"contenido",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","estrategia-marketing","marketing-digital"]
     },
     {
       "id":"contenidos-digitales",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"contenidos-digitales",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"contenidos-digitales",
-      "paths":["produccion-video"]
-    },
-    {
-      "id":"contenidos-digitales",
-      "paths":["ecommerce"]
+      "paths":["inbound-marketing","publicidad","produccion-video","ecommerce"]
     },
     {
       "id":"contenido-seo",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"contenido-seo",
-      "paths":["marketing-digital"]
+      "paths":["estrategia-marketing","marketing-digital"]
     },
     {
       "id":"contenido-tiktok",
@@ -806,15 +434,7 @@
     },
     {
       "id":"content-marketing",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"content-marketing",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"content-marketing",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","estrategia-marketing","marketing-digital"]
     },
     {
       "id":"conversacion-avanzado",
@@ -822,67 +442,19 @@
     },
     {
       "id":"coolhunting",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"coolhunting",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"coolhunting",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"coolhunting",
-      "paths":["negocios"]
+      "paths":["publicidad","marketing-digital","diseno-producto","negocios"]
     },
     {
       "id":"copy-storytelling",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"copy-storytelling",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"copy-storytelling",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"copy-storytelling",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","estrategia-marketing","email-marketing","marketing-digital"]
     },
     {
       "id":"copywriting-digital",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"copywriting-digital",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"copywriting-digital",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"copywriting-digital",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"copywriting-digital",
-      "paths":["marketing-digital"]
+      "paths":["outbound-marketing","inbound-marketing","estrategia-marketing","publicidad","marketing-digital"]
     },
     {
       "id":"c-plus-plus",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"c-plus-plus",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"c-plus-plus",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","desarrollo-unity","software"]
     },
     {
       "id":"creacion-de-empresas",
@@ -890,19 +462,11 @@
     },
     {
       "id":"creacion-personajes",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"creacion-personajes",
-      "paths":["videojuegos"]
+      "paths":["diseno-grafico","videojuegos"]
     },
     {
       "id":"creacion-podcasts",
-      "paths":["periodismo-digital"]
-    },
-    {
-      "id":"creacion-podcasts",
-      "paths":["produccion-video"]
+      "paths":["periodismo-digital","produccion-video"]
     },
     {
       "id":"creacion-reels",
@@ -910,19 +474,11 @@
     },
     {
       "id":"creacion-videojuegos",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"creacion-videojuegos",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"creatividad-financiera",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"creatividad-financiera",
-      "paths":["finanzas"]
+      "paths":["habilidades-blandas","finanzas"]
     },
     {
       "id":"creatividad-innovacion",
@@ -934,11 +490,7 @@
     },
     {
       "id":"crisis-redes",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"crisis-redes",
-      "paths":["marketing-digital"]
+      "paths":["estrategia-marketing","marketing-digital"]
     },
     {
       "id":"criterio-digital",
@@ -950,31 +502,11 @@
     },
     {
       "id":"c-sharp",
-      "paths":["asp-net"]
-    },
-    {
-      "id":"c-sharp",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"c-sharp",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"c-sharp",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"c-sharp",
-      "paths":["azure"]
+      "paths":["asp-net","multiplataforma-xamarin","desarrollo-unity","multiplataforma","azure"]
     },
     {
       "id":"css-grid-layout",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"css-grid-layout",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"cultura-organizacional",
@@ -986,11 +518,7 @@
     },
     {
       "id":"curso-de-thick-data",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"curso-de-thick-data",
-      "paths":["negocios"]
+      "paths":["diseno-ux","negocios"]
     },
     {
       "id":"curso-php-laravel",
@@ -998,39 +526,15 @@
     },
     {
       "id":"data-studio",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"data-studio",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"data-studio",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"data-studio",
-      "paths":["datos"]
+      "paths":["data-marketing","publicidad","marketing-digital","datos"]
     },
     {
       "id":"datos-php",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"datos-php",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"datos-php",
-      "paths":["software"]
+      "paths":["desarrollo-wordpress","desarrollo-php","software"]
     },
     {
       "id":"db-aws",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"db-aws",
-      "paths":["aws"]
+      "paths":["base-de-datos","aws"]
     },
     {
       "id":"declaracion-renta",
@@ -1038,11 +542,7 @@
     },
     {
       "id":"deep-learning",
-      "paths":["ai"]
-    },
-    {
-      "id":"deep-learning",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"desarrollo-lenguajes-programacion",
@@ -1050,91 +550,23 @@
     },
     {
       "id":"desarrollo-moderno-codestream",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"desarrollo-moderno-codestream",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"desarrollo-moderno-codestream",
-      "paths":["web"]
-    },
-    {
-      "id":"desarrollo-moderno-codestream",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","backend-javascript","web","software"]
     },
     {
       "id":"desarrollo-unity",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"desarrollo-unity",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"desbloquea-creatividad",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"desbloquea-creatividad",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"desbloquea-creatividad",
-      "paths":["habilidades-blandas"]
+      "paths":["inbound-marketing","publicidad","habilidades-blandas"]
     },
     {
       "id":"design-sprint",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"design-sprint",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"design-sprint",
-      "paths":["interfaces-ui"]
-    },
-    {
-      "id":"design-sprint",
-      "paths":["negocios"]
+      "paths":["diseno-ux","diseno-producto","interfaces-ui","negocios"]
     },
     {
       "id":"design-thinking",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"design-thinking",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"design-thinking",
-      "paths":["interfaces-ui"]
-    },
-    {
-      "id":"design-thinking",
-      "paths":["ecommerce"]
-    },
-    {
-      "id":"despliegue-apps",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"despliegue-apps",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"despliegue-apps",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"despliegue-apps",
-      "paths":["servidores"]
-    },
-    {
-      "id":"despliegue-apps",
-      "paths":["software"]
+      "paths":["diseno-ux","diseno-producto","interfaces-ui","ecommerce","backend-go","backend-ruby","desarrollo-php","servidores","software"]
     },
     {
       "id":"developer",
@@ -1142,11 +574,7 @@
     },
     {
       "id":"devops",
-      "paths":["ibm-cloud"]
-    },
-    {
-      "id":"devops",
-      "paths":["servidores"]
+      "paths":["ibm-cloud","servidores"]
     },
     {
       "id":"devops-terraform",
@@ -1154,11 +582,7 @@
     },
     {
       "id":"devtools",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"devtools",
-      "paths":["web"]
+      "paths":["desarrollo-angular","web"]
     },
     {
       "id":"dialogflow",
@@ -1182,15 +606,7 @@
     },
     {
       "id":"discretas",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"discretas",
-      "paths":["ai"]
-    },
-    {
-      "id":"discretas",
-      "paths":["matematicas"]
+      "paths":["matematicas-programacion","ai","matematicas"]
     },
     {
       "id":"diseno-desarrolladores",
@@ -1198,19 +614,11 @@
     },
     {
       "id":"diseno-editorial",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"diseno-editorial",
-      "paths":["diseno-grafico"]
+      "paths":["diseno-producto","diseno-grafico"]
     },
     {
       "id":"diseno-email",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"diseno-email",
-      "paths":["marketing-digital"]
+      "paths":["email-marketing","marketing-digital"]
     },
     {
       "id":"diseno-empaques",
@@ -1218,15 +626,7 @@
     },
     {
       "id":"diseno-interfaces-ux",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"diseno-interfaces-ux",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"diseno-interfaces-ux",
-      "paths":["interfaces-ui"]
+      "paths":["diseno-ux","diseno-producto","interfaces-ui"]
     },
     {
       "id":"diseno-interfaz",
@@ -1234,27 +634,11 @@
     },
     {
       "id":"diseno-programadores",
-      "paths":["interfaces-ui"]
-    },
-    {
-      "id":"diseno-programadores",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"diseno-programadores",
-      "paths":["web"]
-    },
-    {
-      "id":"diseno-programadores",
-      "paths":["software"]
+      "paths":["interfaces-ui","fundamentos-programacion","web","software"]
     },
     {
       "id":"diseno-prototipos",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"diseno-prototipos",
-      "paths":["interfaces-ui"]
+      "paths":["diseno-producto","interfaces-ui"]
     },
     {
       "id":"diseno-tipografia",
@@ -1262,19 +646,11 @@
     },
     {
       "id":"diseno-usuario",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"diseno-usuario",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"diseno-videojuegos",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"diseno-videojuegos",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"diversidad-inclusion",
@@ -1294,15 +670,7 @@
     },
     {
       "id":"docker",
-      "paths":["ibm-cloud"]
-    },
-    {
-      "id":"docker",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"docker",
-      "paths":["servidores"]
+      "paths":["ibm-cloud","backend-go","servidores"]
     },
     {
       "id":"docker-2017",
@@ -1310,47 +678,15 @@
     },
     {
       "id":"docker-swarm",
-      "paths":["ibm-cloud"]
-    },
-    {
-      "id":"docker-swarm",
-      "paths":["servidores"]
+      "paths":["ibm-cloud","servidores"]
     },
     {
       "id":"ds-probabilidad",
-      "paths":["matematicas"]
-    },
-    {
-      "id":"ds-probabilidad",
-      "paths":["datos"]
+      "paths":["matematicas","datos"]
     },
     {
       "id":"ecmascript-6",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"ecmascript-6",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"ecmascript-6",
-      "paths":["vue"]
-    },
-    {
-      "id":"ecmascript-6",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"ecmascript-6",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"ecmascript-6",
-      "paths":["web"]
-    },
-    {
-      "id":"ecmascript-6",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","desarrollo-angular","vue","escuela-javascript","backend-javascript","web","react-native"]
     },
     {
       "id":"economia-digital",
@@ -1358,11 +694,7 @@
     },
     {
       "id":"ecuaciones",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"ecuaciones",
-      "paths":["matematicas"]
+      "paths":["matematicas-programacion","matematicas"]
     },
     {
       "id":"edicion-periodistica",
@@ -1382,23 +714,11 @@
     },
     {
       "id":"email-marketing",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"email-marketing",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"email-marketing",
-      "paths":["marketing-digital"]
+      "paths":["estrategia-marketing","email-marketing","marketing-digital"]
     },
     {
       "id":"eng-management",
-      "paths":["software"]
-    },
-    {
-      "id":"eng-management",
-      "paths":["negocios"]
+      "paths":["software","negocios"]
     },
     {
       "id":"entrar-yc",
@@ -1406,15 +726,7 @@
     },
     {
       "id":"entrevistas-ingles",
-      "paths":["idioma-ingles"]
-    },
-    {
-      "id":"entrevistas-ingles",
-      "paths":["software"]
-    },
-    {
-      "id":"entrevistas-ingles",
-      "paths":["habilidades-blandas"]
+      "paths":["idioma-ingles","software","habilidades-blandas"]
     },
     {
       "id":"entrevistas-periodisticas",
@@ -1422,11 +734,7 @@
     },
     {
       "id":"entrevista-trabajo",
-      "paths":["software"]
-    },
-    {
-      "id":"entrevista-trabajo",
-      "paths":["habilidades-blandas"]
+      "paths":["software","habilidades-blandas"]
     },
     {
       "id":"equipos-agiles",
@@ -1434,51 +742,19 @@
     },
     {
       "id":"escenarios-videojuegos",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"escenarios-videojuegos",
-      "paths":["videojuegos"]
+      "paths":["diseno-grafico","videojuegos"]
     },
     {
       "id":"escritura-ingles",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"escritura-ingles",
-      "paths":["idioma-ingles"]
+      "paths":["ventas-mercadeo","idioma-ingles"]
     },
     {
       "id":"escritura-online",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"escritura-online",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"escritura-online",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"escritura-online",
-      "paths":["periodismo-digital"]
+      "paths":["inbound-marketing","email-marketing","habilidades-blandas","periodismo-digital"]
     },
     {
       "id":"especializacion-marketing",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"especializacion-marketing",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"especializacion-marketing",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"especializacion-marketing",
-      "paths":["marketing-digital"]
+      "paths":["outbound-marketing","inbound-marketing","estrategia-marketing","marketing-digital"]
     },
     {
       "id":"estadistica-descriptiva",
@@ -1490,35 +766,15 @@
     },
     {
       "id":"estatica",
-      "paths":["ciencia"]
-    },
-    {
-      "id":"estatica",
-      "paths":["matematicas"]
+      "paths":["ciencia","matematicas"]
     },
     {
       "id":"estrategia-comercial",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"estrategia-comercial",
-      "paths":["startups"]
-    },
-    {
-      "id":"estrategia-comercial",
-      "paths":["negocios"]
-    },
-    {
-      "id":"estrategia-comercial",
-      "paths":["ecommerce"]
+      "paths":["ventas-mercadeo","startups","negocios","ecommerce"]
     },
     {
       "id":"estrategia-instagram",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"estrategia-instagram",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","marketing-digital"]
     },
     {
       "id":"estrategias-comunicar",
@@ -1538,11 +794,7 @@
     },
     {
       "id":"estrategia-videojuegos",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"estrategia-videojuegos",
-      "paths":["videojuegos"]
+      "paths":["marketing-digital","videojuegos"]
     },
     {
       "id":"estrategia-visual",
@@ -1550,15 +802,7 @@
     },
     {
       "id":"estructuras-datos",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"estructuras-datos",
-      "paths":["web"]
-    },
-    {
-      "id":"estructuras-datos",
-      "paths":["software"]
+      "paths":["backend-javascript","web","software"]
     },
     {
       "id":"estructuras-datos-python",
@@ -1570,47 +814,19 @@
     },
     {
       "id":"evaluacion-financiera",
-      "paths":["negocios"]
-    },
-    {
-      "id":"evaluacion-financiera",
-      "paths":["finanzas"]
+      "paths":["negocios","finanzas"]
     },
     {
       "id":"excel",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"excel",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"excel",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"excel",
-      "paths":["finanzas"]
+      "paths":["publicidad","marketing-digital","habilidades-blandas","finanzas"]
     },
     {
       "id":"excel-2018",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"excel-2018",
-      "paths":["ciencia"]
+      "paths":["matematicas-programacion","ciencia"]
     },
     {
       "id":"excel-financiero",
-      "paths":["startups"]
-    },
-    {
-      "id":"excel-financiero",
-      "paths":["negocios"]
-    },
-    {
-      "id":"excel-financiero",
-      "paths":["finanzas"]
+      "paths":["startups","negocios","finanzas"]
     },
     {
       "id":"expresiones-regulares",
@@ -1622,63 +838,23 @@
     },
     {
       "id":"facebook-ads",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"facebook-ads",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"facebook-ads",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"facebook-ads",
-      "paths":["publicidad"]
+      "paths":["outbound-marketing","estrategia-marketing","data-marketing","publicidad"]
     },
     {
       "id":"fb-analytics",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"fb-analytics",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"fb-analytics",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"fb-analytics",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"fb-analytics",
-      "paths":["marketing-digital"]
+      "paths":["outbound-marketing","estrategia-marketing","data-marketing","publicidad","marketing-digital"]
     },
     {
       "id":"fidelizacion",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"fidelizacion",
-      "paths":["ecommerce"]
+      "paths":["ventas-mercadeo","ecommerce"]
     },
     {
       "id":"figma",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"figma",
-      "paths":["interfaces-ui"]
+      "paths":["diseno-producto","interfaces-ui"]
     },
     {
       "id":"financiamiento",
-      "paths":["ecommerce"]
-    },
-    {
-      "id":"financiamiento",
-      "paths":["finanzas"]
+      "paths":["ecommerce","finanzas"]
     },
     {
       "id":"financiera-startups",
@@ -1686,19 +862,11 @@
     },
     {
       "id":"finanzas",
-      "paths":["blockchain-criptomonedas"]
-    },
-    {
-      "id":"finanzas",
-      "paths":["finanzas"]
+      "paths":["blockchain-criptomonedas","finanzas"]
     },
     {
       "id":"finanzas-futuro",
-      "paths":["blockchain-criptomonedas"]
-    },
-    {
-      "id":"finanzas-futuro",
-      "paths":["finanzas"]
+      "paths":["blockchain-criptomonedas","finanzas"]
     },
     {
       "id":"firebase-2017",
@@ -1706,27 +874,11 @@
     },
     {
       "id":"firebase-cloud",
-      "paths":["firebase"]
-    },
-    {
-      "id":"firebase-cloud",
-      "paths":["web"]
+      "paths":["firebase","web"]
     },
     {
       "id":"firebase-web",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"firebase-web",
-      "paths":["firebase"]
-    },
-    {
-      "id":"firebase-web",
-      "paths":["vue"]
-    },
-    {
-      "id":"firebase-web",
-      "paths":["web"]
+      "paths":["base-de-datos","firebase","vue","web"]
     },
     {
       "id":"firebase-web-2017",
@@ -1734,19 +886,11 @@
     },
     {
       "id":"firestore",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"firestore",
-      "paths":["desarrollo-android"]
+      "paths":["desarrollo-java","desarrollo-android"]
     },
     {
       "id":"fisica-matematica",
-      "paths":["ciencia"]
-    },
-    {
-      "id":"fisica-matematica",
-      "paths":["matematicas"]
+      "paths":["ciencia","matematicas"]
     },
     {
       "id":"flask",
@@ -1754,39 +898,19 @@
     },
     {
       "id":"flexbox-css-grid",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"flexbox-css-grid",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"flujo-c",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"flujo-c",
-      "paths":["iot"]
-    },
-    {
-      "id":"flujo-c",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","iot","software"]
     },
     {
       "id":"flutter",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"flutter",
-      "paths":["desarrollo-android"]
+      "paths":["multiplataforma","desarrollo-android"]
     },
     {
       "id":"flutter-avanzado",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"flutter-avanzado",
-      "paths":["desarrollo-android"]
+      "paths":["multiplataforma","desarrollo-android"]
     },
     {
       "id":"forense",
@@ -1810,11 +934,7 @@
     },
     {
       "id":"fotografia-telefono",
-      "paths":["periodismo-digital"]
-    },
-    {
-      "id":"fotografia-telefono",
-      "paths":["produccion-video"]
+      "paths":["periodismo-digital","produccion-video"]
     },
     {
       "id":"foundation",
@@ -1822,63 +942,19 @@
     },
     {
       "id":"frameworks-javascript",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"frameworks-javascript",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"frameworks-javascript",
-      "paths":["vue"]
-    },
-    {
-      "id":"frameworks-javascript",
-      "paths":["web"]
+      "paths":["desarrollo-react","desarrollo-angular","vue","web"]
     },
     {
       "id":"frontend-developer",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"frontend-developer",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"frontend-developer",
-      "paths":["vue"]
-    },
-    {
-      "id":"frontend-developer",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"frontend-developer",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"frontend-developer",
-      "paths":["web"]
+      "paths":["desarrollo-react","desarrollo-angular","vue","multiplataforma","escuela-javascript","web"]
     },
     {
       "id":"funcional-js",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"funcional-js",
-      "paths":["vue"]
+      "paths":["desarrollo-angular","vue"]
     },
     {
       "id":"funciones-c",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"funciones-c",
-      "paths":["iot"]
-    },
-    {
-      "id":"funciones-c",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","iot","software"]
     },
     {
       "id":"fundamentos-arduino",
@@ -1898,111 +974,35 @@
     },
     {
       "id":"fundamentos-csharp",
-      "paths":["videojuegos"]
-    },
-    {
-      "id":"fundamentos-csharp",
-      "paths":["azure"]
-    },
-    {
-      "id":"fundamentos-csharp",
-      "paths":["software"]
+      "paths":["videojuegos","azure","software"]
     },
     {
       "id":"fundamentos-diseno",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"fundamentos-diseno",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"fundamentos-diseno",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"fundamentos-diseno",
-      "paths":["interfaces-ui"]
-    },
-    {
-      "id":"fundamentos-diseno",
-      "paths":["diseno-grafico"]
+      "paths":["email-marketing","diseno-ux","diseno-producto","interfaces-ui","diseno-grafico"]
     },
     {
       "id":"fundamentos-ecommerce",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"fundamentos-ecommerce",
-      "paths":["ecommerce"]
+      "paths":["desarrollo-wordpress","ecommerce"]
     },
     {
       "id":"fundamentos-google",
-      "paths":["google-cloud"]
-    },
-    {
-      "id":"fundamentos-google",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"fundamentos-google",
-      "paths":["firebase"]
-    },
-    {
-      "id":"fundamentos-google",
-      "paths":["servidores"]
-    },
-    {
-      "id":"fundamentos-google",
-      "paths":["software"]
+      "paths":["google-cloud","base-de-datos","firebase","servidores","software"]
     },
     {
       "id":"fundamentos-javascript-2018",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"fundamentos-javascript-2018",
-      "paths":["escuela-javascript"]
+      "paths":["arquitecto-frontend-old","escuela-javascript"]
     },
     {
       "id":"fundamentos-matematicas",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"fundamentos-matematicas",
-      "paths":["ciencia"]
-    },
-    {
-      "id":"fundamentos-matematicas",
-      "paths":["matematicas"]
-    },
-    {
-      "id":"fundamentos-matematicas",
-      "paths":["datos"]
+      "paths":["matematicas-programacion","ciencia","matematicas","datos"]
     },
     {
       "id":"fundamentos-ml",
-      "paths":["ai"]
-    },
-    {
-      "id":"fundamentos-ml",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"fundamentos-node",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"fundamentos-node",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"fundamentos-node",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"fundamentos-node",
-      "paths":["web"]
+      "paths":["desarrollo-angular","escuela-javascript","backend-javascript","web"]
     },
     {
       "id":"fundamentos-periodismo",
@@ -2014,11 +1014,7 @@
     },
     {
       "id":"fundamentos-wordpress",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"fundamentos-wordpress",
-      "paths":["ecommerce"]
+      "paths":["desarrollo-wordpress","ecommerce"]
     },
     {
       "id":"futuro-profesional",
@@ -2030,19 +1026,11 @@
     },
     {
       "id":"gamification",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"gamification",
-      "paths":["videojuegos"]
+      "paths":["diseno-producto","videojuegos"]
     },
     {
       "id":"gatsby",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"gatsby",
-      "paths":["web"]
+      "paths":["desarrollo-react","web"]
     },
     {
       "id":"generos-periodisticos",
@@ -2050,11 +1038,7 @@
     },
     {
       "id":"gestion-cambio",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"gestion-cambio",
-      "paths":["negocios"]
+      "paths":["habilidades-blandas","negocios"]
     },
     {
       "id":"gestion-digital",
@@ -2066,91 +1050,7 @@
     },
     {
       "id":"git-github",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"git-github",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"git-github",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"git-github",
-      "paths":["apple-fullstack"]
-    },
-    {
-      "id":"git-github",
-      "paths":["asp-net"]
-    },
-    {
-      "id":"git-github",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"git-github",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"git-github",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"git-github",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"git-github",
-      "paths":["firebase"]
-    },
-    {
-      "id":"git-github",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"git-github",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"git-github",
-      "paths":["aws"]
-    },
-    {
-      "id":"git-github",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"git-github",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"git-github",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"git-github",
-      "paths":["web"]
-    },
-    {
-      "id":"git-github",
-      "paths":["videojuegos"]
-    },
-    {
-      "id":"git-github",
-      "paths":["datos"]
-    },
-    {
-      "id":"git-github",
-      "paths":["azure"]
-    },
-    {
-      "id":"git-github",
-      "paths":["desarrollo-android"]
-    },
-    {
-      "id":"git-github",
-      "paths":["software"]
+      "paths":["desarrollo-java","fundamentos-programacion","backend-python","apple-fullstack","asp-net","backend-go","backend-ruby","desarrollo-php","multiplataforma-xamarin","firebase","desarrollo-unity","multiplataforma","aws","arquitecto-frontend-old","escuela-javascript","backend-javascript","web","videojuegos","datos","azure","desarrollo-android","software"]
     },
     {
       "id":"gitlab",
@@ -2166,35 +1066,11 @@
     },
     {
       "id":"google-adwords",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"google-adwords",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"google-adwords",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"google-adwords",
-      "paths":["publicidad"]
+      "paths":["outbound-marketing","estrategia-marketing","data-marketing","publicidad"]
     },
     {
       "id":"google-analytics",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"google-analytics",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"google-analytics",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"google-analytics",
-      "paths":["startups"]
+      "paths":["data-marketing","publicidad","marketing-digital","startups"]
     },
     {
       "id":"google-search-console",
@@ -2206,15 +1082,7 @@
     },
     {
       "id":"google-suite",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"google-suite",
-      "paths":["startups"]
-    },
-    {
-      "id":"google-suite",
-      "paths":["negocios"]
+      "paths":["ventas-mercadeo","startups","negocios"]
     },
     {
       "id":"gramatica-b2",
@@ -2222,35 +1090,11 @@
     },
     {
       "id":"graphql",
-      "paths":["web"]
-    },
-    {
-      "id":"graphql",
-      "paths":["software"]
+      "paths":["web","software"]
     },
     {
       "id":"growth-marketing",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"growth-marketing",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"growth-marketing",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"growth-marketing",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"growth-marketing",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"growth-marketing",
-      "paths":["marketing-digital"]
+      "paths":["outbound-marketing","inbound-marketing","estrategia-marketing","data-marketing","publicidad","marketing-digital"]
     },
     {
       "id":"growth-marketing-2016",
@@ -2262,11 +1106,7 @@
     },
     {
       "id":"gtm",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"gtm",
-      "paths":["marketing-digital"]
+      "paths":["data-marketing","marketing-digital"]
     },
     {
       "id":"gtm-marketing",
@@ -2278,35 +1118,19 @@
     },
     {
       "id":"habilidades-blandas",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"habilidades-blandas",
-      "paths":["habilidades-blandas"]
+      "paths":["ventas-mercadeo","habilidades-blandas"]
     },
     {
       "id":"hablar-en-publico",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"hablar-en-publico",
-      "paths":["habilidades-blandas"]
+      "paths":["ventas-mercadeo","habilidades-blandas"]
     },
     {
       "id":"hadoop",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"hadoop",
-      "paths":["datos"]
+      "paths":["base-de-datos","datos"]
     },
     {
       "id":"hapi-js",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"hapi-js",
-      "paths":["web"]
+      "paths":["backend-javascript","web"]
     },
     {
       "id":"heroku-2015",
@@ -2314,23 +1138,11 @@
     },
     {
       "id":"historia-programacion",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"historia-programacion",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","software"]
     },
     {
       "id":"html-css",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"html-css",
-      "paths":["web"]
-    },
-    {
-      "id":"html-css",
-      "paths":["software"]
+      "paths":["arquitecto-frontend-old","web","software"]
     },
     {
       "id":"html-css-2019",
@@ -2338,19 +1150,7 @@
     },
     {
       "id":"html-practico",
-      "paths":["interfaces-ui"]
-    },
-    {
-      "id":"html-practico",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"html-practico",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"html-practico",
-      "paths":["web"]
+      "paths":["interfaces-ui","desarrollo-wordpress","arquitecto-frontend-old","web"]
     },
     {
       "id":"humor-grafico",
@@ -2362,51 +1162,23 @@
     },
     {
       "id":"ibm-cloud",
-      "paths":["ibm-cloud"]
-    },
-    {
-      "id":"ibm-cloud",
-      "paths":["servidores"]
+      "paths":["ibm-cloud","servidores"]
     },
     {
       "id":"ico",
-      "paths":["startups"]
-    },
-    {
-      "id":"ico",
-      "paths":["blockchain-criptomonedas"]
+      "paths":["startups","blockchain-criptomonedas"]
     },
     {
       "id":"ig-fundamentos",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"ig-fundamentos",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","marketing-digital"]
     },
     {
       "id":"ig-stories",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"ig-stories",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"ig-stories",
-      "paths":["produccion-video"]
+      "paths":["inbound-marketing","marketing-digital","produccion-video"]
     },
     {
       "id":"illustrator",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"illustrator",
-      "paths":["interfaces-ui"]
-    },
-    {
-      "id":"illustrator",
-      "paths":["diseno-grafico"]
+      "paths":["diseno-producto","interfaces-ui","diseno-grafico"]
     },
     {
       "id":"illustrator-avanzado",
@@ -2422,19 +1194,11 @@
     },
     {
       "id":"ilustracion-illustrator",
-      "paths":["interfaces-ui"]
-    },
-    {
-      "id":"ilustracion-illustrator",
-      "paths":["diseno-grafico"]
+      "paths":["interfaces-ui","diseno-grafico"]
     },
     {
       "id":"ilustracion-photoshop",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"ilustracion-photoshop",
-      "paths":["videojuegos"]
+      "paths":["diseno-grafico","videojuegos"]
     },
     {
       "id":"implementacion-audio-videojuegos",
@@ -2458,35 +1222,11 @@
     },
     {
       "id":"influencer",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"influencer",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","marketing-digital"]
     },
     {
       "id":"ingenieria",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"ingenieria",
-      "paths":["ibm-cloud"]
-    },
-    {
-      "id":"ingenieria",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"ingenieria",
-      "paths":["web"]
-    },
-    {
-      "id":"ingenieria",
-      "paths":["azure"]
-    },
-    {
-      "id":"ingenieria",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","ibm-cloud","base-de-datos","web","azure","software"]
     },
     {
       "id":"ingenieria-datos",
@@ -2494,15 +1234,7 @@
     },
     {
       "id":"ingenieria-social",
-      "paths":["seguridad-informatica"]
-    },
-    {
-      "id":"ingles",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"ingles",
-      "paths":["idioma-ingles"]
+      "paths":["seguridad-informatica","ventas-mercadeo","idioma-ingles"]
     },
     {
       "id":"ingles-1",
@@ -2550,11 +1282,7 @@
     },
     {
       "id":"ingles-developers",
-      "paths":["idioma-ingles"]
-    },
-    {
-      "id":"ingles-developers",
-      "paths":["software"]
+      "paths":["idioma-ingles","software"]
     },
     {
       "id":"ingles-facil-speaking",
@@ -2598,11 +1326,7 @@
     },
     {
       "id":"ingles-startups",
-      "paths":["startups"]
-    },
-    {
-      "id":"ingles-startups",
-      "paths":["idioma-ingles"]
+      "paths":["startups","idioma-ingles"]
     },
     {
       "id":"ingles-trabajo",
@@ -2618,35 +1342,15 @@
     },
     {
       "id":"integracion-por-partes",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"integracion-por-partes",
-      "paths":["matematicas"]
+      "paths":["matematicas-programacion","matematicas"]
     },
     {
       "id":"inteligencia-emocional",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"inteligencia-emocional",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"inteligencia-emocional",
-      "paths":["negocios"]
+      "paths":["ventas-mercadeo","habilidades-blandas","negocios"]
     },
     {
       "id":"interfaces-android",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"interfaces-android",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"interfaces-android",
-      "paths":["desarrollo-android"]
+      "paths":["desarrollo-java","multiplataforma","desarrollo-android"]
     },
     {
       "id":"interfaces-ios",
@@ -2670,43 +1374,15 @@
     },
     {
       "id":"intro-algebra",
-      "paths":["matematicas"]
-    },
-    {
-      "id":"intro-algebra",
-      "paths":["datos"]
+      "paths":["matematicas","datos"]
     },
     {
       "id":"introduccion-azure",
-      "paths":["azure"]
-    },
-    {
-      "id":"introduccion-azure",
-      "paths":["software"]
+      "paths":["azure","software"]
     },
     {
       "id":"introduccion-marketing",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"introduccion-marketing",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"introduccion-marketing",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"introduccion-marketing",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"introduccion-marketing",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"introduccion-marketing",
-      "paths":["marketing-digital"]
+      "paths":["outbound-marketing","inbound-marketing","estrategia-marketing","data-marketing","publicidad","marketing-digital"]
     },
     {
       "id":"introduccion-php-2018",
@@ -2738,19 +1414,7 @@
     },
     {
       "id":"introweb",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"introweb",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"introweb",
-      "paths":["web"]
-    },
-    {
-      "id":"introweb",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","arquitecto-frontend-old","web","software"]
     },
     {
       "id":"inventarios",
@@ -2782,11 +1446,7 @@
     },
     {
       "id":"ionic-avanzado",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"ionic-avanzado",
-      "paths":["multiplataforma"]
+      "paths":["desarrollo-angular","multiplataforma"]
     },
     {
       "id":"iot",
@@ -2806,15 +1466,7 @@
     },
     {
       "id":"java-basico",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"java-basico",
-      "paths":["desarrollo-android"]
-    },
-    {
-      "id":"java-basico",
-      "paths":["software"]
+      "paths":["desarrollo-java","desarrollo-android","software"]
     },
     {
       "id":"java-funcional",
@@ -2822,15 +1474,7 @@
     },
     {
       "id":"java-oop",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"java-oop",
-      "paths":["desarrollo-android"]
-    },
-    {
-      "id":"java-oop",
-      "paths":["software"]
+      "paths":["desarrollo-java","desarrollo-android","software"]
     },
     {
       "id":"java-persistencia",
@@ -2838,19 +1482,7 @@
     },
     {
       "id":"javascript-navegador",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"javascript-navegador",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"javascript-navegador",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"javascript-navegador",
-      "paths":["web"]
+      "paths":["desarrollo-angular","arquitecto-frontend-old","backend-javascript","web"]
     },
     {
       "id":"javascript-poo",
@@ -2866,31 +1498,7 @@
     },
     {
       "id":"javascript-profesional",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"javascript-profesional",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"javascript-profesional",
-      "paths":["vue"]
-    },
-    {
-      "id":"javascript-profesional",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"javascript-profesional",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"javascript-profesional",
-      "paths":["web"]
-    },
-    {
-      "id":"javascript-profesional",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","desarrollo-angular","vue","escuela-javascript","backend-javascript","web","react-native"]
     },
     {
       "id":"java-spring",
@@ -2902,35 +1510,11 @@
     },
     {
       "id":"jest",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"jest",
-      "paths":["web"]
-    },
-    {
-      "id":"jest",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","web","react-native"]
     },
     {
       "id":"js-jest-2019",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"js-jest-2019",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"js-jest-2019",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"js-jest-2019",
-      "paths":["web"]
-    },
-    {
-      "id":"js-jest-2019",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","desarrollo-angular","backend-javascript","web","react-native"]
     },
     {
       "id":"js-sails",
@@ -2946,19 +1530,11 @@
     },
     {
       "id":"kotlin",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"kotlin",
-      "paths":["desarrollo-android"]
+      "paths":["desarrollo-java","desarrollo-android"]
     },
     {
       "id":"kotlin-android",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"kotlin-android",
-      "paths":["desarrollo-android"]
+      "paths":["desarrollo-java","desarrollo-android"]
     },
     {
       "id":"kotlin-android-2017",
@@ -2966,11 +1542,7 @@
     },
     {
       "id":"kubernetes-xertica",
-      "paths":["google-cloud"]
-    },
-    {
-      "id":"kubernetes-xertica",
-      "paths":["servidores"]
+      "paths":["google-cloud","servidores"]
     },
     {
       "id":"laravel-api",
@@ -2982,11 +1554,7 @@
     },
     {
       "id":"laravel-spa",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"laravel-spa",
-      "paths":["vue"]
+      "paths":["desarrollo-php","vue"]
     },
     {
       "id":"laravel-tdd",
@@ -2998,11 +1566,7 @@
     },
     {
       "id":"lean-ux",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"lean-ux",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"legales-startups",
@@ -3014,19 +1578,7 @@
     },
     {
       "id":"lenguaje-c",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"lenguaje-c",
-      "paths":["iot"]
-    },
-    {
-      "id":"lenguaje-c",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"lenguaje-c",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","iot","desarrollo-unity","software"]
     },
     {
       "id":"less",
@@ -3042,11 +1594,7 @@
     },
     {
       "id":"liderazgo-basico",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"liderazgo-basico",
-      "paths":["negocios"]
+      "paths":["habilidades-blandas","negocios"]
     },
     {
       "id":"liderazgo-creativo",
@@ -3054,27 +1602,11 @@
     },
     {
       "id":"liderazgo-empresarial",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"liderazgo-empresarial",
-      "paths":["startups"]
-    },
-    {
-      "id":"liderazgo-empresarial",
-      "paths":["negocios"]
+      "paths":["publicidad","startups","negocios"]
     },
     {
       "id":"liderazgo-equipos",
-      "paths":["startups"]
-    },
-    {
-      "id":"liderazgo-equipos",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"liderazgo-equipos",
-      "paths":["negocios"]
+      "paths":["startups","habilidades-blandas","negocios"]
     },
     {
       "id":"lider-diseno",
@@ -3086,43 +1618,7 @@
     },
     {
       "id":"linux",
-      "paths":["seguridad-informatica"]
-    },
-    {
-      "id":"linux",
-      "paths":["ibm-cloud"]
-    },
-    {
-      "id":"linux",
-      "paths":["google-cloud"]
-    },
-    {
-      "id":"linux",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"linux",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"linux",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"linux",
-      "paths":["servidores"]
-    },
-    {
-      "id":"linux",
-      "paths":["aws"]
-    },
-    {
-      "id":"linux",
-      "paths":["azure"]
-    },
-    {
-      "id":"linux",
-      "paths":["software"]
+      "paths":["seguridad-informatica","ibm-cloud","google-cloud","backend-go","backend-ruby","desarrollo-php","servidores","aws","azure","software"]
     },
     {
       "id":"linux-2017",
@@ -3158,31 +1654,11 @@
     },
     {
       "id":"marca-personal",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"marca-personal",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"marca-personal",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"marca-personal",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"marca-personal",
-      "paths":["habilidades-blandas"]
+      "paths":["inbound-marketing","ventas-mercadeo","publicidad","marketing-digital","habilidades-blandas"]
     },
     {
       "id":"marca-visual",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"marca-visual",
-      "paths":["diseno-grafico"]
+      "paths":["diseno-producto","diseno-grafico"]
     },
     {
       "id":"marketing-creativo",
@@ -3190,83 +1666,35 @@
     },
     {
       "id":"marketing-ecommerce",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"marketing-ecommerce",
-      "paths":["ecommerce"]
+      "paths":["marketing-digital","ecommerce"]
     },
     {
       "id":"marketing-navidad",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"marketing-navidad",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"marketing-navidad",
-      "paths":["ecommerce"]
+      "paths":["publicidad","marketing-digital","ecommerce"]
     },
     {
       "id":"marketing-pymes",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"marketing-pymes",
-      "paths":["ecommerce"]
+      "paths":["marketing-digital","ecommerce"]
     },
     {
       "id":"marketing-redes",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"marketing-redes",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"marketing-redes",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"marketing-redes",
-      "paths":["ecommerce"]
+      "paths":["inbound-marketing","estrategia-marketing","marketing-digital","ecommerce"]
     },
     {
       "id":"marketing-vg",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"marketing-vg",
-      "paths":["videojuegos"]
+      "paths":["marketing-digital","videojuegos"]
     },
     {
       "id":"marketing-videojuegos",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"marketing-videojuegos",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"marketing-videojuegos",
-      "paths":["videojuegos"]
+      "paths":["publicidad","marketing-digital","videojuegos"]
     },
     {
       "id":"marketing-voz",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"marketing-voz",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","marketing-digital"]
     },
     {
       "id":"marketing-youtube",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"marketing-youtube",
-      "paths":["marketing-digital"]
+      "paths":["estrategia-marketing","marketing-digital"]
     },
     {
       "id":"materialize",
@@ -3278,23 +1706,7 @@
     },
     {
       "id":"mejor-codigo",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"mejor-codigo",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"mejor-codigo",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"mejor-codigo",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"mejor-codigo",
-      "paths":["software"]
+      "paths":["desarrollo-wordpress","fundamentos-programacion","backend-ruby","desarrollo-php","software"]
     },
     {
       "id":"metodologias-diseno-producto",
@@ -3322,19 +1734,11 @@
     },
     {
       "id":"mobile-first",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"mobile-first",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"modelo-3dmaya",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"modelo-3dmaya",
-      "paths":["videojuegos"]
+      "paths":["diseno-grafico","videojuegos"]
     },
     {
       "id":"modelos-numericos",
@@ -3342,15 +1746,7 @@
     },
     {
       "id":"mongodb",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"mongodb",
-      "paths":["firebase"]
-    },
-    {
-      "id":"mongodb",
-      "paths":["web"]
+      "paths":["base-de-datos","firebase","web"]
     },
     {
       "id":"motion-after",
@@ -3358,35 +1754,15 @@
     },
     {
       "id":"motivacion",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"motivacion",
-      "paths":["negocios"]
+      "paths":["habilidades-blandas","negocios"]
     },
     {
       "id":"movil",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"movil",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"movil",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"movil",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","data-marketing","publicidad","marketing-digital"]
     },
     {
       "id":"movil-unity",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"movil-unity",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"musica-videojuegos",
@@ -3398,19 +1774,7 @@
     },
     {
       "id":"negocios-data-science",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"negocios-data-science",
-      "paths":["ai"]
-    },
-    {
-      "id":"negocios-data-science",
-      "paths":["datos"]
-    },
-    {
-      "id":"negocios-data-science",
-      "paths":["negocios"]
+      "paths":["base-de-datos","ai","datos","negocios"]
     },
     {
       "id":"negocios-online",
@@ -3418,27 +1782,15 @@
     },
     {
       "id":"nestjs",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"nestjs",
-      "paths":["web"]
+      "paths":["backend-javascript","web"]
     },
     {
       "id":"nestjs-auth",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"nestjs-auth",
-      "paths":["web"]
+      "paths":["backend-javascript","web"]
     },
     {
       "id":"nestjs-modular",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"nestjs-modular",
-      "paths":["web"]
+      "paths":["backend-javascript","web"]
     },
     {
       "id":"nestjs-mongodb",
@@ -3462,11 +1814,7 @@
     },
     {
       "id":"next",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"next",
-      "paths":["web"]
+      "paths":["desarrollo-react","web"]
     },
     {
       "id":"nodejs",
@@ -3478,83 +1826,11 @@
     },
     {
       "id":"npm",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"npm",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"npm",
-      "paths":["vue"]
-    },
-    {
-      "id":"npm",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"npm",
-      "paths":["web"]
-    },
-    {
-      "id":"npm",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","desarrollo-angular","vue","backend-javascript","web","react-native"]
     },
     {
       "id":"oop",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"oop",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"oop",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"oop",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"oop",
-      "paths":["apple-fullstack"]
-    },
-    {
-      "id":"oop",
-      "paths":["asp-net"]
-    },
-    {
-      "id":"oop",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"oop",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"oop",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"oop",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"oop",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"oop",
-      "paths":["web"]
-    },
-    {
-      "id":"oop",
-      "paths":["desarrollo-android"]
-    },
-    {
-      "id":"oop",
-      "paths":["software"]
+      "paths":["desarrollo-java","desarrollo-wordpress","fundamentos-programacion","backend-python","apple-fullstack","asp-net","backend-ruby","desarrollo-php","desarrollo-angular","multiplataforma-xamarin","multiplataforma","web","desarrollo-android","software"]
     },
     {
       "id":"optimizacion-sql-server",
@@ -3570,19 +1846,7 @@
     },
     {
       "id":"ortografia-basica",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"ortografia-basica",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"ortografia-basica",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"ortografia-basica",
-      "paths":["periodismo-digital"]
+      "paths":["inbound-marketing","email-marketing","habilidades-blandas","periodismo-digital"]
     },
     {
       "id":"pagos-electronicos",
@@ -3598,15 +1862,7 @@
     },
     {
       "id":"passport",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"passport",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"passport",
-      "paths":["web"]
+      "paths":["escuela-javascript","backend-javascript","web"]
     },
     {
       "id":"patrones-android",
@@ -3614,31 +1870,7 @@
     },
     {
       "id":"pensamiento-logico",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"pensamiento-logico",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"pensamiento-logico",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"pensamiento-logico",
-      "paths":["matematicas-programacion"]
-    },
-    {
-      "id":"pensamiento-logico",
-      "paths":["web"]
-    },
-    {
-      "id":"pensamiento-logico",
-      "paths":["matematicas"]
-    },
-    {
-      "id":"pensamiento-logico",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","backend-go","desarrollo-php","matematicas-programacion","web","matematicas","software"]
     },
     {
       "id":"pentesting",
@@ -3670,11 +1902,7 @@
     },
     {
       "id":"personajes-2d",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"personajes-2d",
-      "paths":["videojuegos"]
+      "paths":["diseno-grafico","videojuegos"]
     },
     {
       "id":"personajes-npcs",
@@ -3682,19 +1910,7 @@
     },
     {
       "id":"photoshop-basico",
-      "paths":["email-marketing"]
-    },
-    {
-      "id":"photoshop-basico",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"photoshop-basico",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"photoshop-basico",
-      "paths":["videojuegos"]
+      "paths":["email-marketing","diseno-producto","diseno-grafico","videojuegos"]
     },
     {
       "id":"photoshop-profesional",
@@ -3702,15 +1918,7 @@
     },
     {
       "id":"php",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"php",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"php",
-      "paths":["software"]
+      "paths":["desarrollo-wordpress","desarrollo-php","software"]
     },
     {
       "id":"php-avanzado",
@@ -3722,15 +1930,7 @@
     },
     {
       "id":"php-poo",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"php-poo",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"php-poo",
-      "paths":["software"]
+      "paths":["desarrollo-wordpress","desarrollo-php","software"]
     },
     {
       "id":"pic",
@@ -3738,11 +1938,7 @@
     },
     {
       "id":"planeacion-financiera",
-      "paths":["negocios"]
-    },
-    {
-      "id":"planeacion-financiera",
-      "paths":["finanzas"]
+      "paths":["negocios","finanzas"]
     },
     {
       "id":"planificacion-proyectos",
@@ -3750,23 +1946,11 @@
     },
     {
       "id":"poo-python",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"poo-python",
-      "paths":["ai"]
-    },
-    {
-      "id":"poo-python",
-      "paths":["matematicas"]
+      "paths":["backend-python","ai","matematicas"]
     },
     {
       "id":"portafolios",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"portafolios",
-      "paths":["habilidades-blandas"]
+      "paths":["escuela-javascript","habilidades-blandas"]
     },
     {
       "id":"portugues",
@@ -3790,15 +1974,7 @@
     },
     {
       "id":"posicionamiento-marca",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"posicionamiento-marca",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"posicionamiento-marca",
-      "paths":["ecommerce"]
+      "paths":["estrategia-marketing","marketing-digital","ecommerce"]
     },
     {
       "id":"postcss-2016",
@@ -3806,15 +1982,7 @@
     },
     {
       "id":"postgresql",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"postgresql",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"postgresql",
-      "paths":["web"]
+      "paths":["desarrollo-java","base-de-datos","web"]
     },
     {
       "id":"postgresql-2017",
@@ -3822,11 +1990,7 @@
     },
     {
       "id":"postgresql-datos",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"postgresql-datos",
-      "paths":["datos"]
+      "paths":["base-de-datos","datos"]
     },
     {
       "id":"postman",
@@ -3834,51 +1998,23 @@
     },
     {
       "id":"power-bi",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"power-bi",
-      "paths":["datos"]
+      "paths":["publicidad","datos"]
     },
     {
       "id":"practico-backend",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"practico-backend",
-      "paths":["software"]
+      "paths":["backend-ruby","software"]
     },
     {
       "id":"practico-css",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"practico-css",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"practico-node",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"practico-node",
-      "paths":["web"]
+      "paths":["backend-javascript","web"]
     },
     {
       "id":"practico-sql",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"practico-sql",
-      "paths":["web"]
-    },
-    {
-      "id":"practico-sql",
-      "paths":["datos"]
-    },
-    {
-      "id":"practico-sql",
-      "paths":["software"]
+      "paths":["base-de-datos","web","datos","software"]
     },
     {
       "id":"preparacion-ielts",
@@ -3890,11 +2026,7 @@
     },
     {
       "id":"preprocesadores",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"preprocesadores",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"presentacion-productos-audiovisuales",
@@ -3906,67 +2038,23 @@
     },
     {
       "id":"prevencion",
-      "paths":["startups"]
-    },
-    {
-      "id":"prevencion",
-      "paths":["habilidades-blandas"]
-    },
-    {
-      "id":"prevencion",
-      "paths":["negocios"]
+      "paths":["startups","habilidades-blandas","negocios"]
     },
     {
       "id":"prework-macos",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"prework-macos",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"prework-macos",
-      "paths":["web"]
-    },
-    {
-      "id":"prework-macos",
-      "paths":["software"]
+      "paths":["escuela-javascript","backend-javascript","web","software"]
     },
     {
       "id":"prework-windows",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"prework-windows",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"prework-windows",
-      "paths":["web"]
-    },
-    {
-      "id":"prework-windows",
-      "paths":["software"]
+      "paths":["escuela-javascript","backend-javascript","web","software"]
     },
     {
       "id":"pro-arquitectura",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"pro-arquitectura",
-      "paths":["web"]
-    },
-    {
-      "id":"pro-arquitectura",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","web","software"]
     },
     {
       "id":"probabilistica",
-      "paths":["ai"]
-    },
-    {
-      "id":"probabilistica",
-      "paths":["matematicas"]
+      "paths":["ai","matematicas"]
     },
     {
       "id":"procesamiento",
@@ -4002,63 +2090,19 @@
     },
     {
       "id":"programacion-basica",
-      "paths":["data-marketing"]
-    },
-    {
-      "id":"programacion-basica",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"programacion-basica",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"programacion-basica",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"programacion-basica",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"programacion-basica",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"programacion-basica",
-      "paths":["web"]
-    },
-    {
-      "id":"programacion-basica",
-      "paths":["software"]
+      "paths":["data-marketing","fundamentos-programacion","backend-go","backend-ruby","desarrollo-php","multiplataforma-xamarin","web","software"]
     },
     {
       "id":"programacion-estocastica",
-      "paths":["ai"]
-    },
-    {
-      "id":"programacion-estocastica",
-      "paths":["matematicas"]
+      "paths":["ai","matematicas"]
     },
     {
       "id":"programacion-estructurada",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"programacion-estructurada",
-      "paths":["apple-fullstack"]
-    },
-    {
-      "id":"programacion-estructurada",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","apple-fullstack","software"]
     },
     {
       "id":"programacion-golang",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"programacion-golang",
-      "paths":["software"]
+      "paths":["backend-go","software"]
     },
     {
       "id":"programacion-golang-2020",
@@ -4090,11 +2134,7 @@
     },
     {
       "id":"prototipos-testing",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"prototipos-testing",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"proyectos-pmbok",
@@ -4102,11 +2142,7 @@
     },
     {
       "id":"pruebas-software",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"pruebas-software",
-      "paths":["servidores"]
+      "paths":["fundamentos-programacion","servidores"]
     },
     {
       "id":"pruebas-unitarias",
@@ -4114,119 +2150,35 @@
     },
     {
       "id":"psicologia-consumidor",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"psicologia-consumidor",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"psicologia-consumidor",
-      "paths":["marketing-digital"]
+      "paths":["inbound-marketing","publicidad","marketing-digital"]
     },
     {
       "id":"publicidad-digital",
-      "paths":["publicidad"]
-    },
-    {
-      "id":"publicidad-digital",
-      "paths":["ecommerce"]
+      "paths":["publicidad","ecommerce"]
     },
     {
       "id":"pwa-angular",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"pwa-angular",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"pwa-angular",
-      "paths":["web"]
+      "paths":["desarrollo-angular","multiplataforma","web"]
     },
     {
       "id":"pwa-react-js",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"pwa-react-js",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"pwa-react-js",
-      "paths":["web"]
+      "paths":["desarrollo-react","multiplataforma","web"]
     },
     {
       "id":"python",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"python",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"python",
-      "paths":["ai"]
-    },
-    {
-      "id":"python",
-      "paths":["matematicas"]
-    },
-    {
-      "id":"python",
-      "paths":["datos"]
-    },
-    {
-      "id":"python",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","backend-python","ai","matematicas","datos","software"]
     },
     {
       "id":"python-cs",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"python-cs",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"python-cs",
-      "paths":["ai"]
-    },
-    {
-      "id":"python-cs",
-      "paths":["matematicas"]
-    },
-    {
-      "id":"python-cs",
-      "paths":["datos"]
+      "paths":["fundamentos-programacion","backend-python","ai","matematicas","datos"]
     },
     {
       "id":"python-intermedio",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"python-intermedio",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"python-intermedio",
-      "paths":["ai"]
-    },
-    {
-      "id":"python-intermedio",
-      "paths":["datos"]
-    },
-    {
-      "id":"python-intermedio",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","backend-python","ai","datos","software"]
     },
     {
       "id":"python-lenguaje-natural",
-      "paths":["ai"]
-    },
-    {
-      "id":"python-lenguaje-natural",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"python-practico",
@@ -4238,87 +2190,27 @@
     },
     {
       "id":"react",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"react",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"react",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"react",
-      "paths":["web"]
-    },
-    {
-      "id":"react",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","multiplataforma","arquitecto-frontend-old","web","react-native"]
     },
     {
       "id":"react-avanzado",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"react-avanzado",
-      "paths":["web"]
-    },
-    {
-      "id":"react-avanzado",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","web","react-native"]
     },
     {
       "id":"react-ejs",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"react-ejs",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"react-ejs",
-      "paths":["web"]
-    },
-    {
-      "id":"react-ejs",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","escuela-javascript","web","react-native"]
     },
     {
       "id":"react-hooks",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"react-hooks",
-      "paths":["web"]
-    },
-    {
-      "id":"react-hooks",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","web","react-native"]
     },
     {
       "id":"react-native",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"react-native",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"react-native",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","multiplataforma","react-native"]
     },
     {
       "id":"react-router-redux",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"react-router-redux",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"react-router-redux",
-      "paths":["web"]
+      "paths":["desarrollo-react","escuela-javascript","web"]
     },
     {
       "id":"reclutamiento-talento",
@@ -4326,23 +2218,11 @@
     },
     {
       "id":"redes",
-      "paths":["seguridad-informatica"]
-    },
-    {
-      "id":"redes",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"redes",
-      "paths":["software"]
+      "paths":["seguridad-informatica","fundamentos-programacion","software"]
     },
     {
       "id":"redes-neuronales",
-      "paths":["ai"]
-    },
-    {
-      "id":"redes-neuronales",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"redes-sociales",
@@ -4350,31 +2230,15 @@
     },
     {
       "id":"redshift-big-data",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"redshift-big-data",
-      "paths":["datos"]
+      "paths":["base-de-datos","datos"]
     },
     {
       "id":"redux",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"redux",
-      "paths":["web"]
-    },
-    {
-      "id":"redux",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","web","react-native"]
     },
     {
       "id":"regresion-python",
-      "paths":["ai"]
-    },
-    {
-      "id":"regresion-python",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"relaciones-publicas",
@@ -4394,11 +2258,7 @@
     },
     {
       "id":"rpg-unity",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"rpg-unity",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"ruby",
@@ -4418,39 +2278,11 @@
     },
     {
       "id":"scikitlearn-ml",
-      "paths":["ai"]
-    },
-    {
-      "id":"scikitlearn-ml",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"scope",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"scope",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"scope",
-      "paths":["vue"]
-    },
-    {
-      "id":"scope",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"scope",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"scope",
-      "paths":["web"]
-    },
-    {
-      "id":"scope",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","desarrollo-angular","vue","arquitecto-frontend-old","backend-javascript","web","react-native"]
     },
     {
       "id":"scrapy",
@@ -4466,15 +2298,7 @@
     },
     {
       "id":"seguridad-empresas",
-      "paths":["startups"]
-    },
-    {
-      "id":"seguridad-empresas",
-      "paths":["seguridad-informatica"]
-    },
-    {
-      "id":"seguridad-empresas",
-      "paths":["negocios"]
+      "paths":["startups","seguridad-informatica","negocios"]
     },
     {
       "id":"seguridad-informatica",
@@ -4482,43 +2306,15 @@
     },
     {
       "id":"seo",
-      "paths":["inbound-marketing"]
-    },
-    {
-      "id":"seo",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"seo",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"seo",
-      "paths":["startups"]
-    },
-    {
-      "id":"seo",
-      "paths":["periodismo-digital"]
-    },
-    {
-      "id":"seo",
-      "paths":["ecommerce"]
+      "paths":["inbound-marketing","estrategia-marketing","marketing-digital","startups","periodismo-digital","ecommerce"]
     },
     {
       "id":"seo-recomendaciones",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"seo-recomendaciones",
-      "paths":["marketing-digital"]
+      "paths":["estrategia-marketing","marketing-digital"]
     },
     {
       "id":"seo-tecnico",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"seo-tecnico",
-      "paths":["marketing-digital"]
+      "paths":["estrategia-marketing","marketing-digital"]
     },
     {
       "id":"seo-wordpress",
@@ -4542,19 +2338,11 @@
     },
     {
       "id":"sistemas-diseno",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"sistemas-diseno",
-      "paths":["web"]
+      "paths":["diseno-producto","web"]
     },
     {
       "id":"sketch",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"sketch",
-      "paths":["interfaces-ui"]
+      "paths":["diseno-producto","interfaces-ui"]
     },
     {
       "id":"slack",
@@ -4562,43 +2350,23 @@
     },
     {
       "id":"solucion-problemas",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"solucion-problemas",
-      "paths":["habilidades-blandas"]
+      "paths":["diseno-ux","habilidades-blandas"]
     },
     {
       "id":"spa-javascript",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"spa-javascript",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"spark",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"spark",
-      "paths":["datos"]
+      "paths":["base-de-datos","datos"]
     },
     {
       "id":"spark-ar",
-      "paths":["estrategia-marketing"]
-    },
-    {
-      "id":"spark-ar",
-      "paths":["marketing-digital"]
+      "paths":["estrategia-marketing","marketing-digital"]
     },
     {
       "id":"sql-azure",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"sql-azure",
-      "paths":["azure"]
+      "paths":["base-de-datos","azure"]
     },
     {
       "id":"sql-mysql",
@@ -4606,15 +2374,7 @@
     },
     {
       "id":"ssr",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"ssr",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"ssr",
-      "paths":["web"]
+      "paths":["escuela-javascript","backend-javascript","web"]
     },
     {
       "id":"storage-aws",
@@ -4630,11 +2390,7 @@
     },
     {
       "id":"streaming-telefono",
-      "paths":["periodismo-digital"]
-    },
-    {
-      "id":"streaming-telefono",
-      "paths":["produccion-video"]
+      "paths":["periodismo-digital","produccion-video"]
     },
     {
       "id":"stylus",
@@ -4642,19 +2398,11 @@
     },
     {
       "id":"svelte",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"svelte",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"svelte-sapper-practico",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"svelte-sapper-practico",
-      "paths":["web"]
+      "paths":["arquitecto-frontend-old","web"]
     },
     {
       "id":"swift",
@@ -4686,11 +2434,7 @@
     },
     {
       "id":"tableau",
-      "paths":["datos"]
-    },
-    {
-      "id":"tableau",
-      "paths":["negocios"]
+      "paths":["datos","negocios"]
     },
     {
       "id":"tailwind-css",
@@ -4710,19 +2454,11 @@
     },
     {
       "id":"taller-trabajo",
-      "paths":["software"]
-    },
-    {
-      "id":"taller-trabajo",
-      "paths":["habilidades-blandas"]
+      "paths":["software","habilidades-blandas"]
     },
     {
       "id":"technical-writing",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"technical-writing",
-      "paths":["software"]
+      "paths":["fundamentos-programacion","software"]
     },
     {
       "id":"tecnicas-audio-videojuegos",
@@ -4730,11 +2466,7 @@
     },
     {
       "id":"tecnicas-creatividad",
-      "paths":["diseno-producto"]
-    },
-    {
-      "id":"tecnicas-creatividad",
-      "paths":["diseno-grafico"]
+      "paths":["diseno-producto","diseno-grafico"]
     },
     {
       "id":"tecnicas-iluminacion",
@@ -4742,143 +2474,31 @@
     },
     {
       "id":"tecnicas-negociacion",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"tecnicas-negociacion",
-      "paths":["negocios"]
-    },
-    {
-      "id":"tecnicas-negociacion",
-      "paths":["ecommerce"]
+      "paths":["ventas-mercadeo","negocios","ecommerce"]
     },
     {
       "id":"tecnico-android",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"tecnico-android",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"tecnico-android",
-      "paths":["desarrollo-android"]
+      "paths":["desarrollo-java","multiplataforma","desarrollo-android"]
     },
     {
       "id":"tecnologia-gerentes",
-      "paths":["software"]
-    },
-    {
-      "id":"tecnologia-gerentes",
-      "paths":["negocios"]
+      "paths":["software","negocios"]
     },
     {
       "id":"teletrabajo-trabajo-remoto",
-      "paths":["software"]
-    },
-    {
-      "id":"teletrabajo-trabajo-remoto",
-      "paths":["negocios"]
+      "paths":["software","negocios"]
     },
     {
       "id":"tensorflow-js",
-      "paths":["ai"]
-    },
-    {
-      "id":"tensorflow-js",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"teoria-informacion",
-      "paths":["ai"]
-    },
-    {
-      "id":"teoria-informacion",
-      "paths":["datos"]
+      "paths":["ai","datos"]
     },
     {
       "id":"terminal",
-      "paths":["seguridad-informatica"]
-    },
-    {
-      "id":"terminal",
-      "paths":["desarrollo-java"]
-    },
-    {
-      "id":"terminal",
-      "paths":["fundamentos-programacion"]
-    },
-    {
-      "id":"terminal",
-      "paths":["backend-python"]
-    },
-    {
-      "id":"terminal",
-      "paths":["ibm-cloud"]
-    },
-    {
-      "id":"terminal",
-      "paths":["google-cloud"]
-    },
-    {
-      "id":"terminal",
-      "paths":["backend-go"]
-    },
-    {
-      "id":"terminal",
-      "paths":["backend-ruby"]
-    },
-    {
-      "id":"terminal",
-      "paths":["base-de-datos"]
-    },
-    {
-      "id":"terminal",
-      "paths":["desarrollo-php"]
-    },
-    {
-      "id":"terminal",
-      "paths":["firebase"]
-    },
-    {
-      "id":"terminal",
-      "paths":["iot"]
-    },
-    {
-      "id":"terminal",
-      "paths":["servidores"]
-    },
-    {
-      "id":"terminal",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"terminal",
-      "paths":["aws"]
-    },
-    {
-      "id":"terminal",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"terminal",
-      "paths":["web"]
-    },
-    {
-      "id":"terminal",
-      "paths":["datos"]
-    },
-    {
-      "id":"terminal",
-      "paths":["azure"]
-    },
-    {
-      "id":"terminal",
-      "paths":["desarrollo-android"]
-    },
-    {
-      "id":"terminal",
-      "paths":["software"]
+      "paths":["seguridad-informatica","desarrollo-java","fundamentos-programacion","backend-python","ibm-cloud","google-cloud","backend-go","backend-ruby","base-de-datos","desarrollo-php","firebase","iot","servidores","multiplataforma","aws","backend-javascript","web","datos","azure","desarrollo-android","software"]
     },
     {
       "id":"terminal-2016",
@@ -4902,19 +2522,11 @@
     },
     {
       "id":"testing-vuejs",
-      "paths":["vue"]
-    },
-    {
-      "id":"testing-vuejs",
-      "paths":["web"]
+      "paths":["vue","web"]
     },
     {
       "id":"textura-3dmaya",
-      "paths":["diseno-grafico"]
-    },
-    {
-      "id":"textura-3dmaya",
-      "paths":["videojuegos"]
+      "paths":["diseno-grafico","videojuegos"]
     },
     {
       "id":"texturizado-videojuegos",
@@ -4926,11 +2538,7 @@
     },
     {
       "id":"trading-basico",
-      "paths":["blockchain-criptomonedas"]
-    },
-    {
-      "id":"trading-basico",
-      "paths":["finanzas"]
+      "paths":["blockchain-criptomonedas","finanzas"]
     },
     {
       "id":"trading-criptomonedas",
@@ -4950,47 +2558,19 @@
     },
     {
       "id":"travis",
-      "paths":["servidores"]
-    },
-    {
-      "id":"travis",
-      "paths":["backend-javascript"]
-    },
-    {
-      "id":"travis",
-      "paths":["web"]
+      "paths":["servidores","backend-javascript","web"]
     },
     {
       "id":"trello",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"trello",
-      "paths":["startups"]
-    },
-    {
-      "id":"trello",
-      "paths":["negocios"]
+      "paths":["ventas-mercadeo","startups","negocios"]
     },
     {
       "id":"twitter-ads",
-      "paths":["outbound-marketing"]
-    },
-    {
-      "id":"twitter-ads",
-      "paths":["publicidad"]
+      "paths":["outbound-marketing","publicidad"]
     },
     {
       "id":"typescript",
-      "paths":["desarrollo-angular"]
-    },
-    {
-      "id":"typescript",
-      "paths":["multiplataforma"]
-    },
-    {
-      "id":"typescript",
-      "paths":["web"]
+      "paths":["desarrollo-angular","multiplataforma","web"]
     },
     {
       "id":"typescript-angular",
@@ -5002,19 +2582,11 @@
     },
     {
       "id":"unity-2d",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"unity-2d",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"unity-3d",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"unity-3d",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"unity-3d-old",
@@ -5034,35 +2606,19 @@
     },
     {
       "id":"usabilidad-practico",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"usabilidad-practico",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"usabilidad-ux",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"usabilidad-ux",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"user-research",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"user-research",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"ux-avanzado",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"ux-avanzado",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"ux-ecommerce",
@@ -5070,27 +2626,15 @@
     },
     {
       "id":"uxempresas",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"uxempresas",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"ux-testing",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"ux-testing",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"ux-writing",
-      "paths":["diseno-ux"]
-    },
-    {
-      "id":"ux-writing",
-      "paths":["diseno-producto"]
+      "paths":["diseno-ux","diseno-producto"]
     },
     {
       "id":"ux-writing-avanzado",
@@ -5102,15 +2646,7 @@
     },
     {
       "id":"ventas",
-      "paths":["ventas-mercadeo"]
-    },
-    {
-      "id":"ventas",
-      "paths":["negocios"]
-    },
-    {
-      "id":"ventas",
-      "paths":["ecommerce"]
+      "paths":["ventas-mercadeo","negocios","ecommerce"]
     },
     {
       "id":"ventas-practico",
@@ -5126,55 +2662,27 @@
     },
     {
       "id":"visualizacion-datos",
-      "paths":["datos"]
-    },
-    {
-      "id":"visualizacion-datos",
-      "paths":["negocios"]
+      "paths":["datos","negocios"]
     },
     {
       "id":"vr-unity",
-      "paths":["desarrollo-unity"]
-    },
-    {
-      "id":"vr-unity",
-      "paths":["videojuegos"]
+      "paths":["desarrollo-unity","videojuegos"]
     },
     {
       "id":"vuejs",
-      "paths":["vue"]
-    },
-    {
-      "id":"vuejs",
-      "paths":["web"]
+      "paths":["vue","web"]
     },
     {
       "id":"vuejs2",
-      "paths":["vue"]
-    },
-    {
-      "id":"vuejs2",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"vuejs2",
-      "paths":["web"]
+      "paths":["vue","arquitecto-frontend-old","web"]
     },
     {
       "id":"vuejs-avanzado",
-      "paths":["vue"]
-    },
-    {
-      "id":"vuejs-avanzado",
-      "paths":["web"]
+      "paths":["vue","web"]
     },
     {
       "id":"vuejs-profesional",
-      "paths":["vue"]
-    },
-    {
-      "id":"vuejs-profesional",
-      "paths":["web"]
+      "paths":["vue","web"]
     },
     {
       "id":"watson-avanzado",
@@ -5182,11 +2690,7 @@
     },
     {
       "id":"web-apps",
-      "paths":["asp-net"]
-    },
-    {
-      "id":"web-apps",
-      "paths":["azure"]
+      "paths":["asp-net","azure"]
     },
     {
       "id":"web-components-javascript",
@@ -5194,27 +2698,7 @@
     },
     {
       "id":"webpack",
-      "paths":["desarrollo-react"]
-    },
-    {
-      "id":"webpack",
-      "paths":["vue"]
-    },
-    {
-      "id":"webpack",
-      "paths":["arquitecto-frontend-old"]
-    },
-    {
-      "id":"webpack",
-      "paths":["escuela-javascript"]
-    },
-    {
-      "id":"webpack",
-      "paths":["web"]
-    },
-    {
-      "id":"webpack",
-      "paths":["react-native"]
+      "paths":["desarrollo-react","vue","arquitecto-frontend-old","escuela-javascript","web","react-native"]
     },
     {
       "id":"webpack-practico",
@@ -5234,19 +2718,11 @@
     },
     {
       "id":"whatsapp-business",
-      "paths":["marketing-digital"]
-    },
-    {
-      "id":"whatsapp-business",
-      "paths":["ecommerce"]
+      "paths":["marketing-digital","ecommerce"]
     },
     {
       "id":"woocommerce",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"woocommerce",
-      "paths":["ecommerce"]
+      "paths":["desarrollo-wordpress","ecommerce"]
     },
     {
       "id":"wordpress",
@@ -5254,31 +2730,19 @@
     },
     {
       "id":"wordpress-profesional",
-      "paths":["desarrollo-wordpress"]
-    },
-    {
-      "id":"wordpress-profesional",
-      "paths":["ecommerce"]
+      "paths":["desarrollo-wordpress","ecommerce"]
     },
     {
       "id":"xamarin-forms",
-      "paths":["multiplataforma-xamarin"]
-    },
-    {
-      "id":"xamarin-forms",
-      "paths":["multiplataforma"]
+      "paths":["multiplataforma-xamarin","multiplataforma"]
     },
     {
       "id":"zapier",
-      "paths":["startups"]
-    },
-    {
-      "id":"zapier",
-      "paths":["negocios"]
+      "paths":["startups","negocios"]
     },
     {
       "id":"zoom",
       "paths":["negocios"]
-    },
+    }
   ]
 }
