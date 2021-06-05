@@ -268,322 +268,337 @@
     },
     {
       "id":"ibm-cloud",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo con IBM Cloud",
+      "description":"La era cognitiva está aquí y está construida sobre la nube. Aprende cómo y desarrolla proyectos de Machine Learning con las herramientas de IBM.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["ingenieria","terminal","linux","ibm-cloud"],
+        "intermedio":["devops","docker","docker-swarm"],
+        "avanzado":["watson-avanzado"]
       }
     },
     {
       "id":"apple-fullstack",
-      "name":"",
-      "description":"",
+      "name":"iOS Mobile Developer",
+      "description":"iOS es el sistema operativo que usan iPhone y el iPad de Apple. El lenguaje que se usa para desarrollar aplicaciones para estos dispositivos se llama Swift.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["programacion-estructurada","git-github","oop","swift-5"],
+        "intermedio":["swift","swift-5-func","swift-5-poo"],
+        "avanzado":["swiftui","swiftui-apps-ios","interfaces-ios","apps-ios","apple-watch"],
+        "complementario":["apps-ios-2017","apps-ios-2018"]
       }
     },
     {
       "id":"google-cloud",
-      "name":"",
-      "description":"",
+      "name":"Google Cloud Platform",
+      "description":"Esta ruta está pensada para aprender las herramientas que te permitirán utilizar servicios en la nube para la creación y administración de tus aplicaciones.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","linux","fundamentos-google","app-engine","cloud-platform"],
+        "intermedio":["compute-engine","kubernetes-xertica","google-serverless"],
+        "avanzado":["procesamiento","dialogflow"]
       }
     },
     {
       "id":"asp-net",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo de Aplicaciones con ASP .NET",
+      "description":"Marco de trabajo eficiente, creado por Microsoft, para el desarrollo de software moderno con lenguajes como C# basado en el paradigma de Orientación a Objetos.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["oop","git-github"],
+        "intermedio":["c-sharp"],
+        "avanzado":["aspnet-core","blazor","web-apps"],
+        "complementario":["c-sharp","azure-2018"]
       }
     },
     {
       "id":"backend-go",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo Backend con Go",
+      "description":"Golang es un lenguaje de programación de código abierto creado por Google que ayuda en la creación de software de manera fácil, eficiente y de alto rendimiento.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["pensamiento-logico","programacion-basica","terminal","git-github","programacion-golang","arquitectura-software"],
+        "intermedio":["bd","linux","golang-intermedio","programacion-golang-2020"],
+        "avanzado":["docker","despliegue-apps"],
+        "complementario":["postgresql-2017","go-avanzado-2016"]
       }
     },
     {
       "id":"backend-ruby",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo Web Backend con Ruby on Rails",
+      "description":"Ruby on Rails es una tecnología que le permite a los desarrolladores crear aplicaciones web de forma rápida y efectiva.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["programacion-basica","terminal","git-github","oop","ruby"],
+        "intermedio":["bd","api-rest","intro-ror","ror","intermedio-ror"],
+        "avanzado":["mejor-codigo","linux","despliegue-apps","practico-backend"]
       }
     },
     {
       "id":"base-de-datos",
-      "name":"",
-      "description":"",
+      "name":"Bases de Datos desde Cero",
+      "description":"Es muy importante saber qué, cómo y dónde se guardarán tus datos. Aprende desde cero la teoría y práctica para administrar DBs profesionalmente.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["ingenieria","bd","terminal"],
+        "intermedio":["postgresql","mongodb","intro-elasticsearch","practico-sql","optimizacion-sql-server"],
+        "avanzado":["fundamentos-google","db-aws","firebase-web","sql-azure","postgresql-datos","negocios-data-science","spark","redshift-big-data","hadoop"]
       }
     },
     {
       "id":"desarrollo-php",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo Web Backend con PHP",
+      "description":"PHP es un lenguaje de programación de código abierto enfocado en la creación de sitios web. Es usado por empresas como Facebook y aplicaciones como WordPress.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["pensamiento-logico","programacion-basica","terminal","git-github","php","datos-php","oop","php-poo","mejor-codigo","bd","php-frameworks"],
+        "intermedio":["intro-laravel-2020","eloquent-laravel","intro-laravel","laravel-spa","laravel-testing"],
+        "avanzado":["api-rest","laravel-api","laravel-avanzado","despliegue-apps","laravel-tdd","symfony-framework","linux"],
+        "complementario":["introduccion-php-2018","php-avanzado","curso-php-laravel"]
       }
     },
     {
       "id":"desarrollo-react",
-      "name":"",
-      "description":"",
+      "name":"Frontend con React.js",
+      "description":"Aprende a desarrollar aplicaciones web, móviles y de escritorio con React.js. La librería JavaScript más popular en el mercado.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["frontend-developer","basico-javascript","ecmascript-6","scope","asincronismo-js","npm","javascript-profesional","frameworks-javascript","react"],
+        "intermedio":["webpack","react-ejs","redux","react-router-redux","react-hooks","react-avanzado","js-jest-2019","jest"],
+        "avanzado":["pwa-react-js","next","gatsby","react-native"]
       }
     },
     {
       "id":"desarrollo-angular",
-      "name":"",
-      "description":"",
+      "name":"Frontend con Angular",
+      "description":"Desarrolla aplicaciones web y móviles con Angular, el framework más usado en el mundo para el desarrollo de apps.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["frontend-developer","basico-javascript","ecmascript-6","scope","asincronismo-js","npm","javascript-profesional","typescript","frameworks-javascript","typescript-angular","angular"],
+        "intermedio":["angular-profesional","angular-performance","pwa-angular","angular-forms"],
+        "avanzado":["ionic-avanzado","js-jest-2019","pruebas-unitarias"],
+        "complementario":["javascript-navegador","oop","devtools","funcional-js","fundamentos-node"]
       }
     },
     {
       "id":"multiplataforma-xamarin",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo de Apps Multiplataforma con Xamarin",
+      "description":"Xamarin es una plataforma de desarrollo que facilita la creación de aplicaciones multiplataforma utilizando el lenguaje de programación C#.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["programacion-basica","bd","oop","git-github"],
+        "intermedio":["arquitectura-software","c-sharp"],
+        "avanzado":["aspnet-core","xamarin-forms"]
       }
     },
     {
       "id":"firebase",
-      "name":"",
-      "description":"",
+      "name":"Firebase",
+      "description":"Firebase es un servicio en la nube de Google para producir de forma integral aplicaciones web y móviles, desde el backend hasta la monetización de tus proyectos.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","git-github","bd"],
+        "intermedio":["mongodb","firebase-web"],
+        "avanzado":["firebase-cloud","fundamentos-google"],
+        "complementario":["firebase-web-2017"]
       }
     },
     {
       "id":"iot",
-      "name":"",
-      "description":"",
+      "name":"Internet of Things",
+      "description":"Aprende los fundamentos del desarrollo de hardware, entiende qué es la robótica, crea tus dispositivos conectados a internet.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","electronica","fundamentos-circuitos","iot","lenguaje-c","funciones-c","flujo-c"],
+        "intermedio":["fundamentos-arduino","circuitos-electronicos","iot-protocolos","pic"]
       }
     },
     {
       "id":"servidores",
-      "name":"",
-      "description":"",
+      "name":"Administración de Servidores y DevOps",
+      "description":"DevOps es una cultura que combina buenas prácticas y software para mejorar el despliegue y puesta en marcha de aplicaciones de manera rápida y segura.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","linux","despliegue-apps","fundamentos-google","aws-cloud","ibm-cloud","azure-iaas","digital-ocean","servidores-rust"],
+        "intermedio":["bash-shell","jenkins-basico","travis","docker","docker-swarm","k8s","kubernetes-xertica","devops-terraform"],
+        "avanzado":["gitlab","pruebas-software","devops"],
+        "complementario":["heroku-2015","rackspace","docker-2017","amazon-web-services-2017","azure-paas-2018","arquitectura-docker","digital-ocean-2017"]
       }
     },
     {
       "id":"vue",
-      "name":"",
-      "description":"",
+      "name":"Frontend con Vue.js",
+      "description":"Framework progresivo de Javascript para crear interfaces de forma sencilla y escalable para desarrollar aplicaciones web con diferentes grados de complejidad.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["frontend-developer","basico-javascript","ecmascript-6","scope","asincronismo-js","frameworks-javascript","vuejs2","javascript-profesional","vuejs"],
+        "intermedio":["npm","webpack","vuejs-profesional","testing-vuejs"],
+        "avanzado":["avanzado-vue","firebase-web","vuejs-avanzado"],
+        "complementario":["funcional-js","laravel-spa"]
       }
     },
     {
       "id":"desarrollo-unity",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo de Videojuegos con Unity",
+      "description":"Esta herramienta de software provee un set de funcionalidades preestablecidas que permiten juntar los elementos que requiere un videojuego en su desarrollo.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["creacion-videojuegos","diseno-videojuegos","unity-3d","git-github"],
+        "intermedio":["c-plus-plus","lenguaje-c","c-sharp","avanzado-videojuegos"],
+        "avanzado":["desarrollo-unity","movil-unity","unity-2d","rpg-unity","vr-unity"],
+        "complementario":["unity-3d-old"]
       }
     },
     {
       "id":"multiplataforma",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo de Aplicaciones Multiplataforma",
+      "description":"Es la nueva forma de crear aplicaciones móviles y de escritorio, desarrollando una sola base de código y compartiéndolo en las diferentes plataformas existentes.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","git-github","oop"],
+        "intermedio":["basico-javascript","frontend-developer","react","pwa-react-js","electron","react-native","typescript","angular","pwa-angular","ionic-avanzado"],
+        "avanzado":["bd","c-sharp","aspnet-core","blazor","xamarin-forms","tecnico-android","interfaces-android","flutter","flutter-avanzado","apps-ios"]
       }
     },
     {
       "id":"aws",
-      "name":"",
-      "description":"",
+      "name":"Amazon Web Services",
+      "description":"Aprende a utilizar Amazon Web Services, la plataforma de servicios de cómputo en la nube de Amazon que prevé la carga a futuro de tus propios servidores.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["linux","terminal","git-github"],
+        "intermedio":["aws-cloud","storage-aws","aws-computo"],
+        "avanzado":["db-aws","networking-content","iaac-aws","big-data"]
       }
     },
     {
       "id":"matematicas-programacion",
-      "name":"",
-      "description":"",
+      "name":"Matemáticas para Programación",
+      "description":"Aprende a resolver problemas, desarrollar el pensamiento deductivo, elaborar algoritmos y construir modelos para toma de decisiones que resuelven problemas.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["fundamentos-matematicas","algebra","pensamiento-logico"],
+        "intermedio":["calculo-datos","excel-2018"],
+        "avanzado":["discretas","ecuaciones","calculo-multivariable","calculo-integral","calculo-integral-sustitucion","integracion-por-partes","integracion-por-partes"]
       }
     },
     {
       "id":"ciencia",
-      "name":"",
-      "description":"",
+      "name":"Ciencias",
+      "description":"Vas a aprender ciencias naturales y exactas, además de estudiar el origen y evolución de la vida y del universo.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["fundamentos-matematicas","algebra","fisica-matematica"],
+        "intermedio":["astrobiologia","excel-2018"],
+        "avanzado":["excel-2018"]
       }
     },
     {
       "id":"ai",
-      "name":"",
-      "description":"",
+      "name":"Inteligencia Artificial y Machine Learning",
+      "description":"Aprende la tecnología detrás de los automóviles autónomos, asistentes personales, predicción de enfermedades y más.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["negocios-data-science","python","python-intermedio","python-cs","poo-python","programacion-estocastica","probabilistica"],
+        "intermedio":["discretas","calculo-data-science","calculo-multivariable","regresion-python","algebra-lineal","fundamentos-ml","algebra-ml"],
+        "avanzado":["analisis-predictivo","scikit","scikitlearn-ml","teoria-informacion","redes-neuronales","tensorflow-js","python-lenguaje-natural","clasificacion-texto","deep-learning"]
       }
     },
     {
       "id":"arquitecto-frontend-old",
-      "name":"",
-      "description":"",
+      "name":"Arquitectura Frontend",
+      "description":"Crea sitios web desde cero con una interfaz gráfica dinámica y atractiva en el navegador y dispositivos móviles, aplicando HTML, CSS y Javascript.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["introweb","html-css","git-github","html-css-2019","html-practico","mobile-first","css-grid-layout","flexbox-css-grid","practico-css","basico-javascript","fundamentos-javascript-2018"],
+        "intermedio":["preprocesadores","sass","less","stylus","bootstrap","foundation","diseno-desarrolladores","tailwind-css","materialize"],
+        "avanzado":["javascript-navegador","webpack","spa-javascript","scope","singlepage-app","asincronismo-js","react","vuejs2","angular","postman","svelte","svelte-sapper-practico"],
+        "complementario":["postcss-2016","fw-frontend-2016"]
       }
     },
     {
       "id":"escuela-javascript",
-      "name":"",
-      "description":"",
+      "name":"Escuela de JavaScript",
+      "description":"Desarrolla con el Stack MERN con expertos de la industria y el equipo de Ingeniería de Platzi. Sé un Desarrollador FullStack JavaScript.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["prework-windows","prework-macos","frontend-developer","basico-javascript","fundamentos-javascript-2018","ecmascript-6","asincronismo-js","javascript-profesional"],
+        "intermedio":["webpack","react-ejs","react-router-redux"],
+        "avanzado":["fundamentos-node","backend-nodejs","ssr","passport","bff"],
+        "complementario":["portafolios","git-github"]
       }
     },
     {
       "id":"backend-javascript",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo Backend con JavaScript",
+      "description":"Ahora con JavaScript puedes crear aplicaciones que corren del lado del servidor gracias a Node.js, te enseñamos cómo empezar hasta convertirte un experto.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["prework-windows","prework-macos","terminal","git-github","desarrollo-moderno-codestream","basico-javascript","javascript-navegador","ecmascript-6","scope","asincronismo-js","npm","javascript-profesional","estructuras-datos"],
+        "intermedio":["fundamentos-node","backend-js","practico-node","express-js","backend-nodejs","ssr","passport","bff","nodejs"],
+        "avanzado":["javascript-pro","js-sails","hapi-js","nestjs","nestjs-modular","nestjs-typeorm","nestjs-mongodb","nestjs-auth","js-jest-2019","testing-cypress","travis"]
       }
     },
     {
       "id":"web",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Desarrollo Web",
+      "description":"Aprende desarrollo web Full Stack desde cero con HTML, CSS y JavaScript. Domina herramientas como React, Vue, Angular y backend development con Node.js.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["computacion-basica","programacion-basica","pensamiento-logico","introweb","ingenieria","prework-windows","prework-macos","terminal","git-github","desarrollo-moderno-codestream","html-css","html-practico","mobile-first","preprocesadores","frontend-developer","diseno-programadores","sistemas-diseno","practico-css","css-grid-layout","flexbox-css-grid","transformaciones-transiciones-css","animaciones-css"],
+        "intermedio":["basico-javascript","javascript-practico","scope","oop","javascript-poo","ecmascript-6","javascript-navegador","asincronismo-js","npm","javascript-profesional","typescript","webpack","travis","spa-javascript","animaciones-css-practico","devtools","accesibilidad-web","web-performancedom","web-components-javascript","estructuras-datos"],
+        "avanzado":["frameworks-javascript","react","react-ejs","react-router-redux","redux","react-hooks","react-avanzado","pwa-react-js","js-jest-2019","jest","angular","angular-profesional","angular-performance","angular-forms","pwa-angular","vuejs2","vuejs","vuejs-profesional","avanzado-vue","vuejs-avanzado","testing-vuejs","svelte","sapper","svelte-sapper-practico"],
+        "complementario":["bd","sql-mysql","postgresql","practico-sql","mongodb","fundamentos-node","backend-js","practico-node","backend-nodejs","ssr","webpack-practico","passport","bff","bff","arquitectura-software","pro-arquitectura","firebase-web","firebase-cloud","hapi-js","graphql","nestjs","nestjs-modular","nestjs-mongodbnestjs-typeorm","nestjs-auth","next","gatsby"]
       }
     },
     {
       "id":"matematicas",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Matemáticas",
+      "description":"Aprende en casa temas de matemáticas como álgebra, ecuaciones, funciones, cálculo y probabilidad. Desarrolla tus propios análisis matemáticos y aplícalos.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["fundamentos-matematicas","algebra","fisica-matematica","pensamiento-logico"],
+        "intermedio":["calculo-datos","calculo-integral","calculo-integral-sustitucion","integracion-por-partes","calculo-multivariable","ecuaciones"],
+        "avanzado":["python","python-cs","poo-python","programacion-estocastica","probabilistica","ds-probabilidad","intro-algebra","algebra-lineal","estatica","discretas","calculo-data-science","modelos-numericos"]
       }
     },
     {
       "id":"react-native",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo de Apps con React Native",
+      "description":"Crea aplicaciones nativas para iOS y Android con Javascript y React.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["basico-javascript","ecmascript-6","scope","asincronismo-js","npm","javascript-profesional","react"],
+        "intermedio":["webpack","react-ejs","redux","react-hooks","react-avanzado","js-jest-2019","jest"],
+        "avanzado":["react-native"]
       }
     },
     {
       "id":"videojuegos",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Videojuegos",
+      "description":"Esta escuela te guiará para convertirte, desde cero, en un profesional listo para diseñar, desarrollar y lanzar un videojuego.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["produccion-videojuegos","creacion-videojuegos","diseno-videojuegos","profesional-diseno-videojuegos","prototipado-personajes","personajes-npcs","avanzado-videojuegos","gamification"],
+        "intermedio":["photoshop-basico","ilustracion-photoshop","creacion-personajes","personajes-2d","animacion-personajes","animacion-videojuegos","arte-escenarios","escenarios-videojuegos","modelo-3dmaya","textura-3dmaya"],
+        "avanzado":["git-github","fundamentos-csharp","desarrollo-unity","unity-2d","unity-3d","movil-unity","rpg-unity","vr-unity","unreal","unreal-blueprints","unreal-sequencer","fundamentos-audio-videojuegos","tecnicas-audio-videojuegos","implementacion-audio-videojuegos","musica-videojuegos","testing-videojuegos"],
+        "complementario":["marketing-vg","marketing-videojuegos","estrategia-videojuegos"]
       }
     },
     {
       "id":"datos",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Data Science",
+      "description":"Domina las herramientas y técnicas para el procesamiento de Big Data y Ciencia de Datos.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["negocios-data-science","python","terminal","git-github","fundamentos-matematicas","python-intermedio","python-cs","estadistica-descriptiva","regresion-python","calculo-data-science","ds-probabilidad","intro-algebra","bd"],
+        "intermedio":["visualizacion-datos","bi-excel","tableau","power-bi","data-studio","pandas","practico-sql","web-scraping","ingenieria-datos","webscraping","scrapy","spark","hadoop","redshift-big-data"],
+        "avanzado":["postgresql-datos","analisis-exploratorio-datos","fundamentos-r","estadistica-inferencial","algebra-lineal","fundamentos-ml","algebra-ml","scikitlearn-ml","teoria-informacion","redes-neuronales","tensorflow-js","python-lenguaje-natural","clasificacion-texto","deep-learning"]
       }
     },
     {
       "id":"azure",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Cloud Computing con Azure",
+      "description":"Aprende a utilizar Azure, la plataforma de servicios de cómputo en la nube de Microsoft.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["ingenieria","introduccion-azure","terminal","linux"],
+        "intermedio":["git-github","fundamentos-csharp","c-sharp","aspnet-core","web-apps","azure-functions","azure-cognitive-services"],
+        "avanzado":["azure-iaas","azure-active-directory","azure-kubernetes-service","azure-github-devops","azure-networking-seguridad"],
+        "complementario":["bd","almacenamiento-azure","sql-azure","azure-cosmos-db","azure-bases-datos","azure-redis-cache"]
       }
     },
     {
       "id":"desarrollo-android",
-      "name":"",
-      "description":"",
+      "name":"Desarrollo de Aplicaciones Android",
+      "description":"Android es el Sistema Operativo usado por más personas en todo el mundo, es el lugar donde tus desarrollos pueden tener más alcance.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["terminal","git-github","oop","java-basico","java-oop","kotlin"],
+        "intermedio":["tecnico-android","interfaces-android","kotlin-android","firestore","arquitectura-android","patrones-android","aplicaciones-huawei","clean-architecture"],
+        "avanzado":["flutter","flutter-avanzado"],
+        "complementario":["kotlin-android-2017","firebase-2017"]
       }
     },
     {
       "id":"software",
-      "name":"",
-      "description":"",
+      "name":"Escuela de Programación y Desarrollo de Software",
+      "description":"Aprende programación de cero a profesional para ingeniería de software, ciencia de datos y computer science. Domina la tecnología más demandada en la industria.",
       "cursos":{
-        "basico":["","",""],
-        "intermedio":["","",""],
-        "avanzado":["","",""]
+        "basico":["computacion-basica","prework-windows","prework-macos","pensamiento-logico","programacion-basica","terminal","git-github","tecnologia-gerentes"],
+        "intermedio":["introweb","diseno-programadores","html-css","historia-programacion","programacion-estructurada","oop","basico-javascript","estructuras-datos","python","python-intermedio","php","datos-php","php-poo","java-basico","java-oop","programacion-golang","lenguaje-c","flujo-c","funciones-c","c-plus-plus","fundamentos-csharp","bash-shell","mejor-codigo","desarrollo-moderno-codestream","technical-writing"],
+        "avanzado":["ingenieria","redes","avanzado-redes","bd","practico-sql","api-rest","graphql","despliegue-apps","linux","aws-cloud","fundamentos-google","introduccion-azure","arquitectura-software","pro-arquitectura","practico-backend"],
+        "complementario":["ordenamiento","developer","entrevista-trabajo","taller-trabajo","entrevistas-ingles","ingles-developers","teletrabajo-trabajo-remoto","eng-management"]
       }
     },
     {
