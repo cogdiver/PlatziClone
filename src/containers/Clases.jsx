@@ -1,10 +1,8 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Clases extends Component {
   render() {
-    return (
-      <div>Clases</div>
-    );
+    return <div>Clases</div>;
   }
 }
 

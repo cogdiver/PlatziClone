@@ -1,12 +1,8 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 
 class Categoria extends Component {
   render() {
-    return (
-      <div className='categoria'>
-        Categoria
-      </div>
-    );
+    return <div className="categoria">Categoria</div>;
   }
 }
 
