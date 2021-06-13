@@ -1,14 +1,14 @@
 import React, { Component } from "react";
-import Hero from "../components/HeroCursos";
-import Contenido from "../components/Contenido";
-import Escuelas from "../components/Escuelas";
-import Docente from "../components/Docente";
-import Comentarios from "../components/Comentarios";
-import Estadisticas from "../components/Estadisticas";
-import Comunidad from "../components/Comunidad";
-import MoreCursos from "../components/MoreCursos";
-import Reconocimiento from "../components/Reconocimiento";
-import Footer from "../components/Footer";
+import Hero from "Components/HeroCursos";
+import Contenido from "Components/Contenido";
+import Escuelas from "Components/Escuelas";
+import Docente from "Components/Docente";
+import Comentarios from "Components/Comentarios";
+import Estadisticas from "Components/Estadisticas";
+import Comunidad from "Components/Comunidad";
+import MoreCursos from "Components/MoreCursos";
+import Reconocimiento from "Components/Reconocimiento";
+import Footer from "Components/Footer";
 
 class Cursos extends Component {
   render() {

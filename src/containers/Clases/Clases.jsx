@@ -1,12 +1,12 @@
 import React, { Component } from "react";
-import imgRuta from "../assets/static/ruta.png";
-import imgTeacher from "../assets/static/perfil.jpg";
-import level from "../assets/static/Básico.png";
-import Encabezado from "../components/Encabezado";
-import Modulo from "../components/Modulo";
-import Down from "../components/svg/Down";
-import Play from "../components/svg/Play";
-import proyecto from "../assets/static/proyecto.png";
+import imgRuta from "Static/ruta.png";
+import imgTeacher from "Static/perfil.jpg";
+import level from "Static/Básico.png";
+import Encabezado from "Components/Encabezado";
+import Modulo from "Components/Modulo";
+import Down from "Components/svg/Down";
+import Play from "Components/svg/Play";
+import proyecto from "Static/proyecto.png";
 
 class Clases extends Component {
   render() {
