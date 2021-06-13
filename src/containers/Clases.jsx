@@ -276,6 +276,10 @@ class Clases extends Component {
     const clasesHTML = curso.temario.map((m) => (
       <Modulo key={m.nameModulo} titulo={m.nameModulo} clases={m.class} />
     ));
+
+    const tutorialesHTML = [1, 2, 3].map((e) => <p>{e}</p>);
+    const preguntasHTML = [1, 2, 3].map((e) => <p>{e}</p>);
+
     return (
       <p>
         <section className="presentacion">
@@ -390,6 +394,23 @@ class Clases extends Component {
               </div>
             </div>
             <div className="contenidoClass">{clasesHTML}</div>
+          </div>
+          <div className="tutoriales">
+            <div className="mensaje">
+              <p>
+                Es la oportunidad de ayudar a tus compañeros con tu conocimiento
+              </p>
+              <div className="botton">Crear tutotial</div>
+            </div>
+            <div className="tutoriales">{tutorialesHTML}</div>
+          </div>
+          <div className="preguntas">
+            <div className="botones">
+              <div className="boton">Nuevos</div>
+              <div className="boton">Más votados</div>
+              <div className="boton">Sin responder</div>
+            </div>
+            <div className="preguntasItems">{preguntasHTML}</div>
           </div>
         </section>
       </p>
