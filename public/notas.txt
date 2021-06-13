@@ -1,1 +1,3 @@
 organizar scroll vertical y horizontal
+cambiar los diseños a CSS-in-JS
+organizar las rutas de los import's
