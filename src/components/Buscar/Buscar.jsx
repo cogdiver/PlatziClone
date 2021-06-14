@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
-import Buscador from './Buscador';
-import Categorias from './Categorias';
+import React, { Component } from "react";
+import Buscador from "../Buscador/Buscador";
+import Categorias from "../Categorias/Categorias";
 
 class Buscar extends Component {
   render() {
     return (
-      <div className='menuBuscar'>
+      <div className="menuBuscar">
         <Buscador />
         <Categorias />
         <Categorias />

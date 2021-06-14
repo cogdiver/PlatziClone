@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import Go from "./svg/Down";
+import Go from "../svg/Down";
 
 class CategoriaFooter extends Component {
   render() {

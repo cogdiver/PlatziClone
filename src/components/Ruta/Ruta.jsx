@@ -1,23 +1,23 @@
-import React, { Component } from 'react';
-import Down from './svg/Down';
-import Abandonar from './svg/Agregar';
-import Arrastrar from './svg/Tuerca';
-import ruta from '../assets/static/ruta.png';
+import React, { Component } from "react";
+import Down from "../svg/Down";
+import Abandonar from "../svg/Agregar";
+import Arrastrar from "../svg/Tuerca";
+import ruta from "../../assets/static/ruta.png";
 
 class Ruta extends Component {
   render() {
     return (
-      <div className='ruta'>
-        <div className='description'>
+      <div className="ruta">
+        <div className="description">
           <Arrastrar />
-          <img src={ruta} alt='' />
+          <img src={ruta} alt="" />
           <p>Escuela de Habilidades Blandas</p>
           <Down />
         </div>
-        <div className='avance'>
+        <div className="avance">
           <span>50%</span>
-          <div className='barra'>
-            <div className='barraprogreso' />
+          <div className="barra">
+            <div className="barraprogreso" />
           </div>
           <Abandonar />
         </div>

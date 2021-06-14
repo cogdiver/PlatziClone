@@ -1,20 +1,20 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import "../assets/styles/_Footer.scss";
-import Twitter from "./svg/Twitter";
-import Youtube from "./svg/Youtube";
-import Facebook from "./svg/Facebook";
-import Instagram from "./svg/Instagram";
-import CategoriaFooter from "./CategoriaFooter";
-import logo from "../assets/static/logo.png";
-import logoLetras from "../assets/static/logo2.png";
-import brasil from "../assets/static/brazil.jpg";
-import espana from "../assets/static/espana.jpg";
-import united from "../assets/static/united-states.jpg";
-import ibm from "../assets/static/logo-ibm.png";
-import unity from "../assets/static/logo-unity.png";
-import yc from "../assets/static/yc.png";
-import asu from "../assets/static/asugsv.png";
+import "../../assets/styles/_Footer.scss";
+import Twitter from "../svg/Twitter";
+import Youtube from "../svg/Youtube";
+import Facebook from "../svg/Facebook";
+import Instagram from "../svg/Instagram";
+import CategoriaFooter from "../CategoriaFooter/CategoriaFooter";
+import logo from "../../assets/static/logo.png";
+import logoLetras from "../../assets/static/logo2.png";
+import brasil from "../../assets/static/brazil.jpg";
+import espana from "../../assets/static/espana.jpg";
+import united from "../../assets/static/united-states.jpg";
+import ibm from "../../assets/static/logo-ibm.png";
+import unity from "../../assets/static/logo-unity.png";
+import yc from "../../assets/static/yc.png";
+import asu from "../../assets/static/asugsv.png";
 
 class Footer extends Component {
   render() {

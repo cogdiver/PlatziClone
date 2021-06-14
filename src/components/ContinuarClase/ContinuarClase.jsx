@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import imageClase from "../assets/static/clase.jpg";
-import play from "../assets/static/play.png";
-import curso from "../assets/static/curso.png";
+import imageClase from "../../assets/static/clase.jpg";
+import play from "../../assets/static/play.png";
+import curso from "../../assets/static/curso.png";
 
 class ContinuarClase extends Component {
   render() {

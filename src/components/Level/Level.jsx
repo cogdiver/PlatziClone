@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import basico from "../assets/static/Básico@2x.png";
-import intermedio from "../assets/static/Intermedio@2x.png";
-import avanzado from "../assets/static/Avanzado@2x.png";
-import complementario from "../assets/static/Complementario@2x.png";
+import basico from "../../assets/static/Básico@2x.png";
+import intermedio from "../../assets/static/Intermedio@2x.png";
+import avanzado from "../../assets/static/Avanzado@2x.png";
+import complementario from "../../assets/static/Complementario@2x.png";
 
 class Level extends Component {
   render() {

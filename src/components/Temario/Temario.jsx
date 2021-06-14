@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Modulo from "./Modulo";
+import Modulo from "../Modulo/Modulo";
 
 class Temario extends Component {
   render() {

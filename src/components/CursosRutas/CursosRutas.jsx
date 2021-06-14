@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Level from "./Level";
+import Level from "../Level/Level";
 //import basico from "../assets/static/Básico.png";
 //import intermedio from "../assets/static/Básico.png";
 //import avanzado from "../assets/static/Básico.png";

@@ -1,11 +1,11 @@
 import React from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Layout from "../components/Layout";
-import Home from "../containers/Home";
-import Cursos from "../containers/Cursos";
-import Rutas from "../containers/Rutas";
-import Clases from "../containers/Clases";
-import NotFound from "../containers/NotFound";
+import Layout from "../containers/Layout";
+import Home from "../containers/Home/Home";
+import Cursos from "../containers/Cursos/Cursos";
+import Rutas from "../containers/Rutas/Rutas";
+import Clases from "../containers/Clases/Clases";
+import NotFound from "../containers/NotFound/NotFound";
 import "../assets/styles/_generals.scss";
 
 const App = () => (

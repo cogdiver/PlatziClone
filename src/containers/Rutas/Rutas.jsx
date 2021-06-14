@@ -1,13 +1,13 @@
 import React, { Component } from "react";
-import imgRuta from "../assets/static/ruta.png";
-import CursosRutas from "../components/CursosRutas";
-import Glosario from "../components/Glosario";
-import Teachers from "../components/Teachers";
-import BlogsPost from "../components/BlogsPost";
-import RutaShow from "../components/RutaShow";
-import Footer from "../components/Footer";
-import Down from "../components/svg/Down";
-import Encabezado from "../components/Encabezado";
+import imgRuta from "../../assets/static/ruta.png";
+import CursosRutas from "../../components/CursosRutas/CursosRutas";
+import Glosario from "../../components/Glosario/Glosario";
+import Teachers from "../../components/Teachers/Teachers";
+import BlogsPost from "../../components/BlogsPost/BlogsPost";
+import RutaShow from "../../components/RutaShow/RutaShow";
+import Footer from "../../components/Footer/Footer";
+import Down from "../../components/svg/Down";
+import Encabezado from "../../components/Encabezado/Encabezado";
 
 class Rutas extends Component {
   render() {

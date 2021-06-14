@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import ContinuarClase from "./ContinuarClase";
-import "../assets/styles/_Continuar_clases.scss";
+import ContinuarClase from "../ContinuarClase/ContinuarClase";
+import "../../assets/styles/_Continuar_clases.scss";
 
 class ContinuarClases extends Component {
   render() {

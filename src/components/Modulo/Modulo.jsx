@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Play from "./svg/Play";
+import Play from "../svg/Play";
 
 class Modulo extends Component {
   render() {

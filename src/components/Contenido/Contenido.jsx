@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Temario from "./Temario";
-import Detalles from "./Detalles";
-import Encabezado from "./Encabezado";
-import "../assets/styles/_Contenido.scss";
+import Temario from "../Temario/Temario";
+import Detalles from "../Detalles/Detalles";
+import Encabezado from "../Encabezado/Encabezado";
+import "../../assets/styles/_Contenido.scss";
 
 class Contenido extends Component {
   render() {

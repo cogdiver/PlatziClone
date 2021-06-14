@@ -1,21 +1,21 @@
-import React, { Component } from 'react';
-import Notificacion from './Notificacion';
-import Campana from './svg/Campana';
-import Arrow from './svg/Arrow';
-import Tuerca from './svg/Tuerca';
-import '../assets/styles/_Notificaciones.scss';
+import React, { Component } from "react";
+import Notificacion from "../Notificacion/Notificacion";
+import Campana from "../svg/Campana";
+import Arrow from "../svg/Arrow";
+import Tuerca from "../svg/Tuerca";
+import "../../assets/styles/_Notificaciones.scss";
 
 class Notificaciones extends Component {
   render() {
     return (
-      <div className='Notificaciones'>
+      <div className="Notificaciones">
         <Campana />
-        <div className='Menu_notificaciones'>
-          <div className='notificaciones-top'>
+        <div className="Menu_notificaciones">
+          <div className="notificaciones-top">
             <p>Tus Notificaciones</p>
             <Tuerca />
           </div>
-          <div className='notificaiones-content'>
+          <div className="notificaiones-content">
             <Notificacion />
             <Notificacion />
             <Notificacion />
@@ -23,7 +23,7 @@ class Notificaciones extends Component {
             <Notificacion />
             <Notificacion />
           </div>
-          <div className='notificaciones-bottom'>
+          <div className="notificaciones-bottom">
             <span>Marcar como leídas</span>
             <span>
               Ver todas
