@@ -1,9 +1,9 @@
 import React from "react";
 import { AvanceUsuario } from "../AvanceUsuario/AvanceUsuario";
-import "../../assets/styles/_Progreso.scss";
+import StyledProgreso from "./style";
 
 const Progreso = () => (
-  <div className="progreso">
+  <StyledProgreso>
     <div className="encabezado">
       <span>
         Tú progreso vs.
@@ -13,7 +13,7 @@ const Progreso = () => (
     </div>
     <AvanceUsuario cursos="120" />
     <AvanceUsuario cursos="60" />
-  </div>
+  </StyledProgreso>
 );
 
 export default Progreso;

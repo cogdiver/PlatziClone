@@ -1,18 +1,18 @@
 import React, { Component } from "react";
 import Escuela from "../Escuela/Escuela";
-import "../../assets/styles/_Escuelas.scss";
+import StyledEscuelas from "./style";
 
 class Escuelas extends Component {
   render() {
     return (
-      <div className="recomendarEscuelas">
+      <StyledEscuelas>
         <div className="barra" />
         <h3>Te recomendamos completar estos cursos de nuestras escuelas</h3>
         <div className="escuelas">
           <Escuela name="Product Design" />
           <Escuela name="Product Design" />
         </div>
-      </div>
+      </StyledEscuelas>
     );
   }
 }

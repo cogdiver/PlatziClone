@@ -3,19 +3,19 @@ import Perfil from "../Perfil/Perfil";
 import Notificaciones from "../Notificaciones/Notificaciones";
 import Menu from "../Menu/Menu";
 import Logo from "../Logo/Logo";
-import "../../assets/styles/_Header.scss";
+import StyledHeader from "./style";
 
 class Header extends Component {
   render() {
     return (
-      <header className="header">
+      <StyledHeader>
         <Logo />
         <div className="right">
           <Menu />
           <Perfil />
           <Notificaciones />
         </div>
-      </header>
+      </StyledHeader>
     );
   }
 }

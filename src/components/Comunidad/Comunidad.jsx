@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import Encabezado from "../Encabezado/Encabezado";
-import "../../assets/styles/_Comunidad.scss";
+import StyledComunidad from "./style";
 
 class Comunidad extends Component {
   render() {
     return (
-      <div className="comunidad">
+      <StyledComunidad>
         <div className="barra" />
         <h3>La Comunidad es nuestro superpoder</h3>
         <p>
@@ -14,7 +14,7 @@ class Comunidad extends Component {
         </p>
         <Encabezado encabezados={["aportes", "blogpost", "proyectos"]} />
         <div className="contenido" />
-      </div>
+      </StyledComunidad>
     );
   }
 }

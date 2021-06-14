@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "../../assets/styles/_Estadisticas.scss";
+import StyledEstadisticas from "./style";
 
 class Estadisticas extends Component {
   render() {
@@ -15,7 +15,7 @@ class Estadisticas extends Component {
         <p>{e}</p>
       </div>
     ));
-    return <div className="estadisticas">{estadisticasHTML}</div>;
+    return <StyledEstadisticas>{estadisticasHTML}</StyledEstadisticas>;
   }
 }
 

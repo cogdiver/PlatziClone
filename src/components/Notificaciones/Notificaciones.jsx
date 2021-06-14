@@ -3,12 +3,12 @@ import Notificacion from "../Notificacion/Notificacion";
 import Campana from "../svg/Campana";
 import Arrow from "../svg/Arrow";
 import Tuerca from "../svg/Tuerca";
-import "../../assets/styles/_Notificaciones.scss";
+import StyledNotificaciones from "./style";
 
 class Notificaciones extends Component {
   render() {
     return (
-      <div className="Notificaciones">
+      <StyledNotificaciones>
         <Campana />
         <div className="Menu_notificaciones">
           <div className="notificaciones-top">
@@ -31,7 +31,7 @@ class Notificaciones extends Component {
             </span>
           </div>
         </div>
-      </div>
+      </StyledNotificaciones>
     );
   }
 }

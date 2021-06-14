@@ -2,13 +2,13 @@ import React, { Component } from "react";
 import Temario from "../Temario/Temario";
 import Detalles from "../Detalles/Detalles";
 import Encabezado from "../Encabezado/Encabezado";
-import "../../assets/styles/_Contenido.scss";
+import StyledContenido from "./style";
 
 class Contenido extends Component {
   render() {
     const { titulo } = this.props;
     return (
-      <div className="temarioRecursos">
+      <StyledContenido>
         <div className="barra" />
         <h3>{titulo}</h3>
         <Encabezado encabezados={["temario", "detalles"]} />
@@ -16,7 +16,7 @@ class Contenido extends Component {
           <Temario />
           <Detalles />
         </div>
-      </div>
+      </StyledContenido>
     );
   }
 }

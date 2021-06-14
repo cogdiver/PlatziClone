@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import imgCurso from "../../assets/static/curso.png";
-import "../../assets/styles/_MoreCursos.scss";
+import StyledCourses from "./style";
 
 class MoreCursos extends Component {
   render() {
@@ -12,10 +12,10 @@ class MoreCursos extends Component {
       </div>
     ));
     return (
-      <div className="MoreCursos">
+      <StyledCourses>
         <h4>Nuestros mejores estudiantes también cursaron</h4>
         <div className="cursos">{cursosHTML}</div>
-      </div>
+      </StyledCourses>
     );
   }
 }

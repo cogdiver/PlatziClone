@@ -3,14 +3,14 @@ import curso from "../../assets/static/curso.png";
 import Estrella from "../svg/Estrella";
 import Level from "../svg/Level";
 import Agregar from "../svg/Agregar";
-import "../../assets/styles/_Hero.scss";
+import StyledHero from "./style";
 
 class HeroCursos extends Component {
   render() {
     const { nameCurso, descripcion, valoraciones, level } = this.props;
 
     return (
-      <div className="Hero">
+      <StyledHero>
         <img src={curso} alt="" />
         <div className="detalles">
           <h2 className="nombre">{nameCurso}</h2>
@@ -34,7 +34,7 @@ class HeroCursos extends Component {
           <input type="button" value="continuar aprendiendo" />
           <Agregar />
         </div>
-      </div>
+      </StyledHero>
     );
   }
 }

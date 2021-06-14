@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import "../../assets/styles/_Docente.scss";
+import StyledDocente from "./style";
 
 class Docente extends Component {
   render() {
     return (
-      <div className="docente">
+      <StyledDocente>
         <img src="" alt="" />
         <div className="barra" />
         <h3>Conoce quién enseña el Curso de Adobe XD</h3>
@@ -14,7 +14,7 @@ class Docente extends Component {
         </div>
         <div className="detalles">Product Designer at Platzi</div>
         <input type="button" value="cursos de carlos" />
-      </div>
+      </StyledDocente>
     );
   }
 }

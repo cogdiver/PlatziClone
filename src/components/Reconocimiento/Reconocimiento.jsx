@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import "../../assets/styles/_Reconocimiento.scss";
+import StyledReconocimiento from "./style";
 
 class Reconocimiento extends Component {
   render() {
     return (
-      <div className="reconocimiento">
+      <StyledReconocimiento>
         <img src="" alt="" className="diploma" />
         <div className="barra" />
         <h3>¡Obtén reconocimiento por tu trabajo!</h3>
@@ -17,7 +17,7 @@ class Reconocimiento extends Component {
           finalices la carrera te enviaremos el diploma en papel a tu casa.
         </p>
         <input type="button" value="continuar aprendiendo" />
-      </div>
+      </StyledReconocimiento>
     );
   }
 }

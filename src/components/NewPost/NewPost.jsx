@@ -5,13 +5,14 @@ import imgPost from "../../assets/static/post.png";
 import Comentarios from "../svg/Comentarios";
 import Comentar from "../svg/Comentar";
 import autorPost from "../../assets/static/perfil.jpg";
+import { StyledPost, StyledDetails } from "./style";
 
 class NewPost extends Component {
   render() {
     const { autor } = this.props;
     return (
       <Link to="/" className="new">
-        <div className="post">
+        <StyledPost>
           <img src={imgPost} alt="" />
           <div className="description">
             <p>
@@ -23,8 +24,8 @@ class NewPost extends Component {
               <p>{autor}</p>
             </div>
           </div>
-        </div>
-        <div className="details">
+        </StyledPost>
+        <StyledDetails>
           <div className="interaccion">
             <div className="like">
               <Comentarios />
@@ -40,7 +41,7 @@ class NewPost extends Component {
             </div>
           </div>
           <p className="time">hace un día</p>
-        </div>
+        </StyledDetails>
       </Link>
     );
   }

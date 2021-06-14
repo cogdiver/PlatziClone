@@ -1,6 +1,7 @@
 import React, { Component } from "react";
+import styledComentarios from "./style";
 import Comentario from "../Comentario/Comentario";
-import "../../assets/styles/_Comentarios.scss";
+//import "../../assets/styles/_Comentarios.scss";
 
 class Comentarios extends Component {
   render() {
@@ -14,7 +15,11 @@ class Comentarios extends Component {
       <Comentario comentario={c} />
     ));
 
-    return <div className="comentarios">{comentariosHTML}</div>;
+    return (
+      <styledComentarios className="comentarios">
+        {comentariosHTML}
+      </styledComentarios>
+    );
   }
 }
 

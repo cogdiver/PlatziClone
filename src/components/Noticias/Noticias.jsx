@@ -1,11 +1,11 @@
 import React from "react";
 import NewPost from "../NewPost/NewPost";
 import NewCourse from "../NewCourse/NewCourse";
-import "../../assets/styles/_Noticias.scss";
+import StyledNoticias from "./style";
 
 const Noticias = () => {
   return (
-    <div className="noticiasHome">
+    <StyledNoticias>
       <NewPost autor="Autor del Post" />
       <NewPost autor="Autor del Post" />
       <NewCourse
@@ -26,7 +26,7 @@ const Noticias = () => {
         curso="Nombre del curso pero un nombre de curso más largo"
         color="verde"
       />
-    </div>
+    </StyledNoticias>
   );
 };
 

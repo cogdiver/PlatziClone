@@ -1,18 +1,18 @@
 import React, { Component } from "react";
 import Ruta from "../Ruta/Ruta";
-import "../../assets/styles/_Rutas.scss";
+import StyledRutas from "./style";
 
 class Rutas extends Component {
   render() {
     return (
-      <div className="rutas">
+      <StyledRutas>
         <Ruta />
         <Ruta />
         <Ruta />
         <Ruta />
         <Ruta />
         <Ruta />
-      </div>
+      </StyledRutas>
     );
   }
 }

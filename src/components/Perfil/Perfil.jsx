@@ -6,12 +6,12 @@ import Empleos from "../svg/Empleos";
 import MesGratis from "../svg/MesGratis";
 import Suscripcion from "../svg/Suscripcion";
 import Contacto from "../svg/Contacto";
-import "../../assets/styles/_Perfil.scss";
+import StyledPerfil from "./style";
 
 class InfoPerfil extends Component {
   render() {
     return (
-      <div className="Perfil">
+      <StyledPerfil className="Perfil">
         <div className="InfoPerfil">
           <img src={photoUsuario} alt="Foto de Perfil" />
           <span>31.341 pts</span>
@@ -48,7 +48,7 @@ class InfoPerfil extends Component {
             Cerrar sesión
           </Link>
         </div>
-      </div>
+      </StyledPerfil>
     );
   }
 }

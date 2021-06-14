@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import "../../assets/styles/_Footer.scss";
+import StyledFooter from "./style";
 import Twitter from "../svg/Twitter";
 import Youtube from "../svg/Youtube";
 import Facebook from "../svg/Facebook";
@@ -53,7 +53,7 @@ class Footer extends Component {
     ));
 
     return (
-      <div className="footer">
+      <StyledFooter className="footer">
         <div className="logo">
           <img src={logo} alt="" />
           <img src={logoLetras} alt="" />
@@ -113,7 +113,7 @@ class Footer extends Component {
           </div>
         </div>
         <p className="deLATAM">De LATAM con 💚 para el mundo</p>
-      </div>
+      </StyledFooter>
     );
   }
 }

@@ -1,17 +1,17 @@
 import React, { Component } from "react";
 import ContinuarClase from "../ContinuarClase/ContinuarClase";
-import "../../assets/styles/_Continuar_clases.scss";
+import StyledContinuar from "./style";
 
 class ContinuarClases extends Component {
   render() {
     return (
-      <div className="ContinuarViendo">
+      <StyledContinuar>
         <p className="titlleContinuar">Continuar Aprendiendo</p>
         <div className="clases">
           <ContinuarClase />
           <ContinuarClase />
         </div>
-      </div>
+      </StyledContinuar>
     );
   }
 }
