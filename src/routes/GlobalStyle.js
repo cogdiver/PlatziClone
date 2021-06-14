@@ -30,6 +30,9 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
   }
+  html{
+    overflow:hidden;
+  }
   body {
     background-color: var(--color_fondo);
     color: var(--color_fuente);
@@ -40,6 +43,24 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
     color: var(--color_fuente);
     cursor: pointer;
+  }
+  
+  //Scroll
+  .scroll{
+    overflow-y: scroll;
+    &::-webkit-scrollbar {
+      width: 7px;
+      margin-left:-7px;
+    }
+    &::-webkit-scrollbar-thumb {
+      background: transparent;
+      border-radius: 5px;
+    }
+    &:hover {
+      &::-webkit-scrollbar-thumb {
+        background: var(--color_opaco);
+      }
+    }
   }
 `;
 export default GlobalStyle;

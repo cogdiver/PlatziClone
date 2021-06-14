@@ -8,7 +8,7 @@ import StyledHeader from "./style";
 class Header extends Component {
   render() {
     return (
-      <StyledHeader>
+      <StyledHeader className="header">
         <Logo />
         <div className="right">
           <Menu />

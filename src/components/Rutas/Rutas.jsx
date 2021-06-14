@@ -5,7 +5,7 @@ import StyledRutas from "./style";
 class Rutas extends Component {
   render() {
     return (
-      <StyledRutas>
+      <StyledRutas className="rutas">
         <Ruta />
         <Ruta />
         <Ruta />

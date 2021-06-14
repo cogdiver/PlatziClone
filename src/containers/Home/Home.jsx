@@ -8,7 +8,7 @@ import StyledHome from "./style";
 
 const Home = () => {
   return (
-    <StyledHome>
+    <StyledHome className="scroll">
       <Rutas />
       <Buscar />
       <ContinuarClases />

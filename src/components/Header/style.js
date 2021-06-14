@@ -2,8 +2,6 @@ import styled from "styled-components";
 
 const StyledHeader = styled.header`
   box-sizing: border-box;
-  width: 100%;
-  //position: fixed;
   z-index: 100;
   background-color: var(--color_medio);
   display: flex;
