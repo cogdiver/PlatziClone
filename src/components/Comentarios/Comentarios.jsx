@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import styledComentarios from "./style";
+import StyledComentarios from "./style";
 import Comentario from "../Comentario/Comentario";
 //import "../../assets/styles/_Comentarios.scss";
 
@@ -16,9 +16,9 @@ class Comentarios extends Component {
     ));
 
     return (
-      <styledComentarios className="comentarios">
+      <StyledComentarios className="comentarios">
         {comentariosHTML}
-      </styledComentarios>
+      </StyledComentarios>
     );
   }
 }

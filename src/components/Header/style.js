@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const styledHeader = styled.header`
+const StyledHeader = styled.header`
   box-sizing: border-box;
   width: 100%;
   //position: fixed;
@@ -28,4 +28,4 @@ const styledHeader = styled.header`
     }
   }
 `;
-export default styledHeader;
+export default StyledHeader;

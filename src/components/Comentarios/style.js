@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const styledComentarios = styled.div`
+const StyledComentarios = styled.div`
   margin-top: 45px;
   display: flex;
   overflow-x: scroll;
@@ -33,4 +33,4 @@ const styledComentarios = styled.div`
   }
 `;
 
-export default styledComentarios;
+export default StyledComentarios;

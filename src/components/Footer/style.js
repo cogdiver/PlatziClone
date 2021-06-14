@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const styledFooter = styled.div`
+const StyledFooter = styled.div`
   background-color: var(--color_oscuro);
   display: grid;
   justify-items: center;
@@ -130,4 +130,4 @@ const styledFooter = styled.div`
   }
 `;
 
-export default styledFooter;
+export default StyledFooter;
