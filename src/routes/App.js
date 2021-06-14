@@ -6,10 +6,12 @@ import Cursos from "../containers/Cursos/Cursos";
 import Rutas from "../containers/Rutas/Rutas";
 import Clases from "../containers/Clases/Clases";
 import NotFound from "../containers/NotFound/NotFound";
-import "../assets/styles/_generals.scss";
+import GlobalStyle from "./GlobalStyle";
+//import Theme from "./Theme";
 
 const App = () => (
   <BrowserRouter>
+    <GlobalStyle />
     <Layout>
       <Switch>
         <Route exact path="/" component={Home} />
